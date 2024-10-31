@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>CSS Lab Practice</title>
+    <style>
+        /* Question 1 Styles */
+        body {
+            font-family: Arial, sans-serif;
+        }
+
+        p {
+            font-size: 16px;
+        }
+
+        h1 {
+            font-weight: bold;
+            text-align: center;
+            font-size: 24px;
+        }
+
+        h2 {
+            font-weight: bold;
+            text-align: center;
+            font-size: 20px;
+        }
+
+        h3 {
+            font-weight: bold;
+            text-align: center;
+            font-size: 18px;
+        }
+
+        blockquote {
+            font-style: italic;
+        }
+
+        /* Question 2 Styles */
+        nav ul {
+            list-style-type: circle;
+            background-color: lightgrey;
+        }
+
+        nav ul li {
+            text-transform: capitalize;
+            font-size: 18px;
+        }
+
+        nav ul li:hover {
+            text-decoration: underline;
+        }
+
+        /* Question 3 Styles */
+        body {
+            background-color: lightblue;
+        }
+
+        .georgia-paragraphs p:first-of-type {
+            font-family: Georgia, serif;
+            font-weight: lighter;
+        }
+
+        .georgia-paragraphs p:nth-of-type(2) {
+            font-family: Georgia, serif;
+            font-style: italic;
+            text-align: right;
+        }
+
+        a {
+            text-decoration: underline;
+        }
+
+        /* Bonus list styling */
+        ul {
+            list-style-type: square;
+        }
+
+        ol {
+            list-style-type: lower-roman;
+        }
+    </style>
+</head>
+<body>
+    <h1>CSS Styling Lab Practice</h1>
+
+    <nav>
+        <ul>
+            <li>home</li>
+            <li>about</li>
+            <li>contact</li>
+        </ul>
+    </nav>
+
+    <div class="georgia-paragraphs">
+        <p>This is the first paragraph with lighter font weight, using Georgia font.</p>
+        <p>This is the second paragraph, aligned to the right and in italic, also using Georgia font.</p>
+    </div>
+
+    <h2>Lists Demonstration</h2>
+
+    <ul>
+        <li>Unordered list item 1</li>
+        <li>Unordered list item 2</li>
+    </ul>
+
+    <ol>
+        <li>Ordered list item 1</li>
+        <li>Ordered list item 2</li>
+    </ol>
+
+    <blockquote>
+        This is a blockquote with italic styling.
+    </blockquote>
+
+    <p>Check out our <a href="#">website link</a> for more information.</p>
+</body>
+</html>
