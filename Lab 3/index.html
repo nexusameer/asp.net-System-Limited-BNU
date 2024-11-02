@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        /* Flex container to align the two boxes side by side */
+        .flex-container {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            gap: 30px;
+            margin-bottom: 50px;
+        }
+        .container {
+            background-color: rgb(134, 218, 138);
+            width: 300px;
+            height: 100px;
+            border-radius: 50px;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            padding: 10px;
+            box-sizing: border-box;
+        }
+    </style>
+</head>
+<body>
+    <!-- Flex container holding both boxes -->
+    <div class="flex-container">
+        <!-- First container for input -->
+        <div class="container">
+            <input type="number" id="first" placeholder="Enter a number">
+            <br>
+            <button onclick="calculateSum()">SUM</button>
+        </div>
+
+        <!-- Second container for output -->
+        <div class="container">
+            <h1 id="second">Result</h1>
+        </div>
+    </div>
+    <div class="flex-container">
+        <!-- First container for input -->
+        <div class="container">
+            <input type="number" id="numberInput" placeholder="Enter a number">
+            <br>
+            <button onclick="generateTable()">Generate Table</button>
+        </div>
+
+        <!-- Second container for output -->
+        <div class="container">
+            <h3>Times Table</h3>
+            <div id="tableOutput" class="result"></div>
+        </div>
+    </div>
+    <div class="flex-container">
+        <!-- First container for input -->
+        <div class="container">
+            <button onclick="third()">3rd Question</button>
+        </div>
+    </div>
+    <script>
+        function third(){
+            var retVal = prompt("Enter your name : ", "your name here");
+            alert("You have entered : " + retVal );
+        }
+        function calculateSum() {
+            // Get the input value
+            let n = parseInt(document.getElementById("first").value);
+            let sum = 0;
+
+            // Calculate the sum from 1 to n
+            for (let i = 1; i <= n; i++) {
+                sum += i;
+            }
+
+            // Display the result in the second container
+            document.getElementById("second").textContent = sum;
+        }
+        function generateTable() {
+            // Get the input value
+            let n = parseInt(document.getElementById("numberInput").value);
+            let output = "";
+
+            // Generate the times table from 1 to 10
+            for (let i = 1; i <= 10; i++) {
+                output += `${i} x ${n} = ${i * n}<br>`;
+            }
+
+            // Display the times table in the second container
+            document.getElementById("tableOutput").innerHTML = output;
+            document.getElementsByClassName("flex-container")[1].style.height="300px";
+            document.getElementsByClassName("container")[2].style.height="300px";
+            document.getElementsByClassName("container")[3].style.height="300px";
+        }
+        </script>
+</body>
+</html>
