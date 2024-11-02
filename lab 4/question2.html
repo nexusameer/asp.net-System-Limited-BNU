@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+
+</body>
+<script>
+    // Create student object
+    let student = {
+        name: "John Doe",
+        age: 20,
+        courses: ["Math", "Physics", "Chemistry", "Biology"]
+    };
+
+    // Function to manipulate courses
+    function manageCourses(student) {
+        // Add new course (e.g., "Computer Science")
+        student.courses.push("Computer Science");
+        console.log("After adding new course:", student.courses);
+
+        // Remove last course
+        student.courses.pop();
+        console.log("After removing last course:", student.courses);
+
+        // Sort courses alphabetically
+        student.courses.sort();
+        console.log("After sorting:", student.courses);
+
+        return student;
+    }
+
+    // Bonus function to display student information
+    function displayStudentInfo(student) {
+        return `Student Information:
+    Name: ${student.name}
+    Age: ${student.age}
+    Courses: ${student.courses.join(", ")}`;
+    }
+
+    // Test the functions
+    console.log("Original student:", student);
+    manageCourses(student);
+    console.log(displayStudentInfo(student));
+</script>
+
+</html>

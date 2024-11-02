@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+
+</body>
+<script>
+    function question1(numbers) {
+        let sorted_array = [...numbers].sort((a, b) => a - b);
+        console.log("Sorted Array: ", sorted_array);
+
+        
+        sorted_array.pop();
+        sorted_array.push(100);
+        sorted_array.reverse();
+
+        return sorted_array;
+    }
+
+    let testArray = [5, 2, 8, 1, 9];
+    console.log("Original array:", testArray);
+
+    console.log(question1(testArray));
+    console.log("Original array after function call:", testArray);
+
+</script>
+
+is there any mistake in script?
+tell me codeium
+
+</html>

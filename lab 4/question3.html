@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+
+</body>
+<script>
+    // Create array of book objects
+    let books = [
+        { title: "The Great Gatsby", author: "F. Scott Fitzgerald", year: 1925 },
+        { title: "To Kill a Mockingbird", author: "Harper Lee", year: 1960 },
+        { title: "1984", author: "George Orwell", year: 1949 },
+        { title: "Pride and Prejudice", author: "Jane Austen", year: 1813 }
+    ];
+
+    // Function to sort books by year in descending order
+    function sortBooksByYear(books) {
+        return books.sort((a, b) => b.year - a.year);
+    }
+
+    // Function to reverse array and add new book
+    function reverseAndAddBook(books) {
+        // Reverse the array
+        books.reverse();
+
+        // Add new book
+        books.push({
+            title: "The Hobbit",
+            author: "J.R.R. Tolkien",
+            year: 1937
+        });
+
+        return books;
+    }
+
+    // Bonus function to remove last book and display remaining
+    function displayRemainingBooks(books) {
+        // Remove last book
+        books.pop();
+
+        // Display remaining books
+        console.log("Remaining books:");
+        books.forEach(book => {
+            console.log(`${book.title} by ${book.author} (${book.year})`);
+        });
+    }
+
+    // Test the functions
+    console.log("Original books:");
+    console.log(books);
+
+    console.log("\nSorted by year (descending):");
+    sortBooksByYear(books);
+    console.log(books);
+
+    console.log("\nAfter reversing and adding new book:");
+    reverseAndAddBook(books);
+    console.log(books);
+
+    console.log("\nFinal list after removing last book:");
+    displayRemainingBooks(books);
+</script>
+
+</html>
