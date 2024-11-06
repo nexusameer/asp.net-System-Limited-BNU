@@ -63,26 +63,113 @@ body {
     flex-direction: row;
     justify-content: space-between;
 }
-.custom-box3 {
+
+
+.custom-container-1 {
+    display: flex;
+    justify-content: space-between;
+    gap: 20px;
+}
+
+.custom-box-3 {
     background-color: gray;
     height: 233px;
     width: 24%;
     color: white;
+    padding: 10px;
+    border-radius: 5px; /* Optional: Adds rounded corners */
 }
-.custom-box3 h2 {
+
+.custom-box-3 h2 {
     margin-left: 11px;
+    font-size: 1.5em;
 }
-.custom-box3 hr {
+
+.custom-box-3 hr {
     width: 94%;
-    /* margin-top: -2px; */
+    margin-top: -2px;
 }
-.custom-box3 p {
+
+.custom-box-3 p {
     margin-top: -3px;
     margin-left: 10px;
 }
+
+
+
+
 .carousel-caption h1 {
-    color: #4b83de;
+    color: #ffffff;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.7);
+    font-weight: bold;
 }
+
 .carousel-caption h2 {
-    color: #b1d7ff;
+    color: #eaeaea;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.7);
+    font-weight: bold;
+}
+
+.containe{
+    height: 600px;
+    width: 100%;
+    float: left;
+   
+}
+.boxx{
+/*		background-color: white;*/
+    height: 480px;
+    width: 25%;
+    float: right;
+    margin: 50px 50px 100px;
+    margin-right: 100px;
+
+}
+.containe img{
+    height: 480px;
+    width: 100%;
+}
+.containe h1{
+    color:white;
+    font-size: 42px;
+    margin: 80px 30px;
+    margin-top: 50px;
+/*        padding: 40px;*/
+/*        text-align: center;*/
+}
+.containe p{
+    color: white;
+    font-size: 25px;
+    margin: 30px;
+    margin-top: -40px;
+    
+}
+button{
+    background-color: white;
+    height: 40px;
+    width: 100px;
+    margin-left: 100px;
+    font-size: 15px;
+    border-radius: 5px;
+    border-color: blue;
+
+}
+button:hover{
+    transition: 0.5s;
+    background-color: black;
+    color: whitesmoke;
+    border-color: blue;
+    border-radius: 5px;
+}
+h2{
+    color: rgb(255, 255, 255);
+    text-align: center;
+
+}
+
+.custom-b211 img:hover {
+    transform: scale(1.1);
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2); 
+    opacity: 0.9;
+    transition: all 0.3s ease;
 }
