@@ -1,0 +1,147 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\Projects\\ASP.NET\\IMS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4AAE91CD-E88A-469C-9DBE-A6F8E4FC9653}|IMS.csproj|f:\\projects\\asp.net\\ims\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AAE91CD-E88A-469C-9DBE-A6F8E4FC9653}|IMS.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AAE91CD-E88A-469C-9DBE-A6F8E4FC9653}|IMS.csproj|f:\\projects\\asp.net\\ims\\migrations\\20241114053608_poduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AAE91CD-E88A-469C-9DBE-A6F8E4FC9653}|IMS.csproj|solutionrelative:migrations\\20241114053608_poduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AAE91CD-E88A-469C-9DBE-A6F8E4FC9653}|IMS.csproj|f:\\projects\\asp.net\\ims\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4AAE91CD-E88A-469C-9DBE-A6F8E4FC9653}|IMS.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AAE91CD-E88A-469C-9DBE-A6F8E4FC9653}|IMS.csproj|f:\\projects\\asp.net\\ims\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AAE91CD-E88A-469C-9DBE-A6F8E4FC9653}|IMS.csproj|solutionrelative:models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AAE91CD-E88A-469C-9DBE-A6F8E4FC9653}|IMS.csproj|f:\\projects\\asp.net\\ims\\services\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AAE91CD-E88A-469C-9DBE-A6F8E4FC9653}|IMS.csproj|solutionrelative:services\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AAE91CD-E88A-469C-9DBE-A6F8E4FC9653}|IMS.csproj|f:\\projects\\asp.net\\ims\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AAE91CD-E88A-469C-9DBE-A6F8E4FC9653}|IMS.csproj|solutionrelative:models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AAE91CD-E88A-469C-9DBE-A6F8E4FC9653}|IMS.csproj|f:\\projects\\asp.net\\ims\\class.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AAE91CD-E88A-469C-9DBE-A6F8E4FC9653}|IMS.csproj|solutionrelative:class.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "20241114053608_poduct.cs",
+              "DocumentMoniker": "F:\\Projects\\ASP.NET\\IMS\\Migrations\\20241114053608_poduct.cs",
+              "RelativeDocumentMoniker": "Migrations\\20241114053608_poduct.cs",
+              "ToolTip": "F:\\Projects\\ASP.NET\\IMS\\Migrations\\20241114053608_poduct.cs",
+              "RelativeToolTip": "Migrations\\20241114053608_poduct.cs",
+              "ViewState": "AgIAAAgAAAAgMzMzM9M0wAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T05:36:08.745Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\Projects\\ASP.NET\\IMS\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "F:\\Projects\\ASP.NET\\IMS\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAiwCcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T05:15:38.621Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{c9c0ae26-aa77-11d2-b3f0-0000f87570ee}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "F:\\Projects\\ASP.NET\\IMS\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "F:\\Projects\\ASP.NET\\IMS\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAABbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-14T05:02:58.145Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Class.cs",
+              "DocumentMoniker": "F:\\Projects\\ASP.NET\\IMS\\Class.cs",
+              "RelativeDocumentMoniker": "Class.cs",
+              "ToolTip": "F:\\Projects\\ASP.NET\\IMS\\Class.cs",
+              "RelativeToolTip": "Class.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T05:02:54.615Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "F:\\Projects\\ASP.NET\\IMS\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\ErrorViewModel.cs",
+              "ToolTip": "F:\\Projects\\ASP.NET\\IMS\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T04:46:30.743Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "F:\\Projects\\ASP.NET\\IMS\\Services\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Services\\ApplicationDbContext.cs",
+              "ToolTip": "F:\\Projects\\ASP.NET\\IMS\\Services\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Services\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T04:43:36.737Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Product.cs",
+              "DocumentMoniker": "F:\\Projects\\ASP.NET\\IMS\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Models\\Product.cs",
+              "ToolTip": "F:\\Projects\\ASP.NET\\IMS\\Models\\Product.cs",
+              "RelativeToolTip": "Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T11:57:39.929Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
