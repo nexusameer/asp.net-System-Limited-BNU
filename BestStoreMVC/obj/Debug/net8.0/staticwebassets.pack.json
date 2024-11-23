@@ -1,0 +1,377 @@
+{
+  "Files": [
+    {
+      "Id": "F:\\Projects\\ASP.NET\\BestStoreMVC\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\BestStoreMVC.bundle.scp.css",
+      "PackagePath": "staticwebassets\\BestStoreMVC.chhgq4b3br.bundle.scp.css"
+    },
+    {
+      "Id": "F:\\Projects\\ASP.NET\\BestStoreMVC\\wwwroot\\Products.zip",
+      "PackagePath": "staticwebassets\\Products.zip"
+    },
+    {
+      "Id": "F:\\Projects\\ASP.NET\\BestStoreMVC\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "F:\\Projects\\ASP.NET\\BestStoreMVC\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "F:\\Projects\\ASP.NET\\BestStoreMVC\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "F:\\Projects\\ASP.NET\\BestStoreMVC\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "F:\\Projects\\ASP.NET\\BestStoreMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "F:\\Projects\\ASP.NET\\BestStoreMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "F:\\Projects\\ASP.NET\\BestStoreMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "F:\\Projects\\ASP.NET\\BestStoreMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "F:\\Projects\\ASP.NET\\BestStoreMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "F:\\Projects\\ASP.NET\\BestStoreMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "F:\\Projects\\ASP.NET\\BestStoreMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "F:\\Projects\\ASP.NET\\BestStoreMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "F:\\Projects\\ASP.NET\\BestStoreMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "F:\\Projects\\ASP.NET\\BestStoreMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "F:\\Projects\\ASP.NET\\BestStoreMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "F:\\Projects\\ASP.NET\\BestStoreMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "F:\\Projects\\ASP.NET\\BestStoreMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "F:\\Projects\\ASP.NET\\BestStoreMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "F:\\Projects\\ASP.NET\\BestStoreMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "F:\\Projects\\ASP.NET\\BestStoreMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "F:\\Projects\\ASP.NET\\BestStoreMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "F:\\Projects\\ASP.NET\\BestStoreMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "F:\\Projects\\ASP.NET\\BestStoreMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "F:\\Projects\\ASP.NET\\BestStoreMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "F:\\Projects\\ASP.NET\\BestStoreMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "F:\\Projects\\ASP.NET\\BestStoreMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "F:\\Projects\\ASP.NET\\BestStoreMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "F:\\Projects\\ASP.NET\\BestStoreMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "F:\\Projects\\ASP.NET\\BestStoreMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "F:\\Projects\\ASP.NET\\BestStoreMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "F:\\Projects\\ASP.NET\\BestStoreMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "F:\\Projects\\ASP.NET\\BestStoreMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "F:\\Projects\\ASP.NET\\BestStoreMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "F:\\Projects\\ASP.NET\\BestStoreMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "F:\\Projects\\ASP.NET\\BestStoreMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "F:\\Projects\\ASP.NET\\BestStoreMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "F:\\Projects\\ASP.NET\\BestStoreMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "F:\\Projects\\ASP.NET\\BestStoreMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "F:\\Projects\\ASP.NET\\BestStoreMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "F:\\Projects\\ASP.NET\\BestStoreMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "F:\\Projects\\ASP.NET\\BestStoreMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "F:\\Projects\\ASP.NET\\BestStoreMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "F:\\Projects\\ASP.NET\\BestStoreMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "F:\\Projects\\ASP.NET\\BestStoreMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "F:\\Projects\\ASP.NET\\BestStoreMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "F:\\Projects\\ASP.NET\\BestStoreMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "F:\\Projects\\ASP.NET\\BestStoreMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "F:\\Projects\\ASP.NET\\BestStoreMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "F:\\Projects\\ASP.NET\\BestStoreMVC\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "F:\\Projects\\ASP.NET\\BestStoreMVC\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "F:\\Projects\\ASP.NET\\BestStoreMVC\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "F:\\Projects\\ASP.NET\\BestStoreMVC\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "F:\\Projects\\ASP.NET\\BestStoreMVC\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "F:\\Projects\\ASP.NET\\BestStoreMVC\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "F:\\Projects\\ASP.NET\\BestStoreMVC\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "F:\\Projects\\ASP.NET\\BestStoreMVC\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "F:\\Projects\\ASP.NET\\BestStoreMVC\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "F:\\Projects\\ASP.NET\\BestStoreMVC\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "F:\\Projects\\ASP.NET\\BestStoreMVC\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "F:\\Projects\\ASP.NET\\BestStoreMVC\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "F:\\Projects\\ASP.NET\\BestStoreMVC\\wwwroot\\products\\aquafina-water-500-ml.jpg",
+      "PackagePath": "staticwebassets\\products\\aquafina-water-500-ml.jpg"
+    },
+    {
+      "Id": "F:\\Projects\\ASP.NET\\BestStoreMVC\\wwwroot\\products\\big-bird-kebab.jpg",
+      "PackagePath": "staticwebassets\\products\\big-bird-kebab.jpg"
+    },
+    {
+      "Id": "F:\\Projects\\ASP.NET\\BestStoreMVC\\wwwroot\\products\\big-bird-nuggets.jpg",
+      "PackagePath": "staticwebassets\\products\\big-bird-nuggets.jpg"
+    },
+    {
+      "Id": "F:\\Projects\\ASP.NET\\BestStoreMVC\\wwwroot\\products\\cheetos-salted.jpg",
+      "PackagePath": "staticwebassets\\products\\cheetos-salted.jpg"
+    },
+    {
+      "Id": "F:\\Projects\\ASP.NET\\BestStoreMVC\\wwwroot\\products\\coca-cola-1.5-litre.jpg",
+      "PackagePath": "staticwebassets\\products\\coca-cola-1.5-litre.jpg"
+    },
+    {
+      "Id": "F:\\Projects\\ASP.NET\\BestStoreMVC\\wwwroot\\products\\coca-cola-500-ml.jpg",
+      "PackagePath": "staticwebassets\\products\\coca-cola-500-ml.jpg"
+    },
+    {
+      "Id": "F:\\Projects\\ASP.NET\\BestStoreMVC\\wwwroot\\products\\dove-conditioner.png",
+      "PackagePath": "staticwebassets\\products\\dove-conditioner.png"
+    },
+    {
+      "Id": "F:\\Projects\\ASP.NET\\BestStoreMVC\\wwwroot\\products\\dove-shampoo.png",
+      "PackagePath": "staticwebassets\\products\\dove-shampoo.png"
+    },
+    {
+      "Id": "F:\\Projects\\ASP.NET\\BestStoreMVC\\wwwroot\\products\\k&n-kebab.png",
+      "PackagePath": "staticwebassets\\products\\k&n-kebab.png"
+    },
+    {
+      "Id": "F:\\Projects\\ASP.NET\\BestStoreMVC\\wwwroot\\products\\k&n-nuggets.jpg",
+      "PackagePath": "staticwebassets\\products\\k&n-nuggets.jpg"
+    },
+    {
+      "Id": "F:\\Projects\\ASP.NET\\BestStoreMVC\\wwwroot\\products\\knorr-chilli-ketchup.png",
+      "PackagePath": "staticwebassets\\products\\knorr-chilli-ketchup.png"
+    },
+    {
+      "Id": "F:\\Projects\\ASP.NET\\BestStoreMVC\\wwwroot\\products\\knorr-ketchup.png",
+      "PackagePath": "staticwebassets\\products\\knorr-ketchup.png"
+    },
+    {
+      "Id": "F:\\Projects\\ASP.NET\\BestStoreMVC\\wwwroot\\products\\knorr-noodles.png",
+      "PackagePath": "staticwebassets\\products\\knorr-noodles.png"
+    },
+    {
+      "Id": "F:\\Projects\\ASP.NET\\BestStoreMVC\\wwwroot\\products\\lays-masala.png",
+      "PackagePath": "staticwebassets\\products\\lays-masala.png"
+    },
+    {
+      "Id": "F:\\Projects\\ASP.NET\\BestStoreMVC\\wwwroot\\products\\lays-salted.png",
+      "PackagePath": "staticwebassets\\products\\lays-salted.png"
+    },
+    {
+      "Id": "F:\\Projects\\ASP.NET\\BestStoreMVC\\wwwroot\\products\\lipton-green-tea-bag.jpg",
+      "PackagePath": "staticwebassets\\products\\lipton-green-tea-bag.jpg"
+    },
+    {
+      "Id": "F:\\Projects\\ASP.NET\\BestStoreMVC\\wwwroot\\products\\lipton-tea.png",
+      "PackagePath": "staticwebassets\\products\\lipton-tea.png"
+    },
+    {
+      "Id": "F:\\Projects\\ASP.NET\\BestStoreMVC\\wwwroot\\products\\nestle-milk-pak.jpg",
+      "PackagePath": "staticwebassets\\products\\nestle-milk-pak.jpg"
+    },
+    {
+      "Id": "F:\\Projects\\ASP.NET\\BestStoreMVC\\wwwroot\\products\\nestle-nescafe-coffee.jpg",
+      "PackagePath": "staticwebassets\\products\\nestle-nescafe-coffee.jpg"
+    },
+    {
+      "Id": "F:\\Projects\\ASP.NET\\BestStoreMVC\\wwwroot\\products\\nestle-water-1.5-litre.jpg",
+      "PackagePath": "staticwebassets\\products\\nestle-water-1.5-litre.jpg"
+    },
+    {
+      "Id": "F:\\Projects\\ASP.NET\\BestStoreMVC\\wwwroot\\products\\nestle-water-500-ml.jpg",
+      "PackagePath": "staticwebassets\\products\\nestle-water-500-ml.jpg"
+    },
+    {
+      "Id": "F:\\Projects\\ASP.NET\\BestStoreMVC\\wwwroot\\products\\nestle-yogurt.jpg",
+      "PackagePath": "staticwebassets\\products\\nestle-yogurt.jpg"
+    },
+    {
+      "Id": "F:\\Projects\\ASP.NET\\BestStoreMVC\\wwwroot\\products\\olpers-milk.jpg",
+      "PackagePath": "staticwebassets\\products\\olpers-milk.jpg"
+    },
+    {
+      "Id": "F:\\Projects\\ASP.NET\\BestStoreMVC\\wwwroot\\products\\sunsilk-shampoo.png",
+      "PackagePath": "staticwebassets\\products\\sunsilk-shampoo.png"
+    },
+    {
+      "Id": "F:\\Projects\\ASP.NET\\BestStoreMVC\\wwwroot\\products\\walls-chocolate-icecream.jpg",
+      "PackagePath": "staticwebassets\\products\\walls-chocolate-icecream.jpg"
+    },
+    {
+      "Id": "F:\\Projects\\ASP.NET\\BestStoreMVC\\wwwroot\\products\\walls-vanilla-icecream.jpg",
+      "PackagePath": "staticwebassets\\products\\walls-vanilla-icecream.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.BestStoreMVC.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.BestStoreMVC.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.BestStoreMVC.props",
+      "PackagePath": "build\\BestStoreMVC.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.BestStoreMVC.props",
+      "PackagePath": "buildMultiTargeting\\BestStoreMVC.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.BestStoreMVC.props",
+      "PackagePath": "buildTransitive\\BestStoreMVC.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

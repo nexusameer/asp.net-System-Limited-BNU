@@ -1,0 +1,4 @@
+﻿@page
+@model BestStoreMVC.Views.Products.IndexModel
+@{
+}

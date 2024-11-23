@@ -1,0 +1,30 @@
+﻿@model List<Product>
+@{
+
+}
+
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Product Page</title>
+	</head>
+	<body>
+		<h1>Products</h1>
+		<a asp-controller="Products" asp-action="Create" class="btn btn-primary">Create Product</a>
+		<table>
+			<tr>
+				<th>Id</th>
+				<th>Name</th>
+				<th>Image</th>
+			</tr>
+			@foreach(var product in Model)
+			{
+				<tr>
+					<td>@product.ProductId</td>
+					<td>@product.Name</td>
+					<td><img src="/products/@product.Image" alt="Alternate Text" width="100"/></td>
+				</tr>
+			}
+		</table>
+	</body>
+</html>

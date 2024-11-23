@@ -1,0 +1,26 @@
+﻿@model ProductDto
+@{
+}
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+    <head><title></title></head>
+    <body>
+        <h1>New Product</h1>
+        <form method="post" enctype="multipart/form-data">
+        @Html.AntiForgeryToken() <!-- Optional, but recommended for security -->
+
+            <label>Name</label>
+            <input asp-for="Name" class="form-control" />
+            <span asp-validation-for="Name" class="text-danger"></span>
+            <br/>
+
+            <label>Image</label>
+            <input asp-for="Image" type="file" class="form-control" />
+            <span asp-validation-for="Image" class="text-danger"></span>
+            <br/>
+
+            <button type="submit" class="btn btn-primary">Save</button>
+            <a asp-controller="Products" asp-action="Index" class="btn btn-secondary">Cancel</a>
+        </form>
+    </body>
+</html>

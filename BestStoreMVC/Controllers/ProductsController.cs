@@ -1,0 +1,70 @@
+﻿using Microsoft.AspNetCore.Mvc;
+using BestStoreMVC.Services;
+using BestStoreMVC.Models;
+
+namespace BestStoreMVC.Controllers;
+
+public class ProductsController : Controller
+{
+    private readonly ApplicationDbContext context;
+    private readonly IWebHostEnvironment environment;
+
+    public ProductsController(ApplicationDbContext context, IWebHostEnvironment environment)
+    {
+        this.context = context;
+        this.environment = environment;
+    }
+
+    public IActionResult Index()
+    {
+        var products = context.Products.ToList();
+        return View(products);
+    }
+
+    public IActionResult Create()
+    {
+        return View();
+    }
+
+    [HttpPost]
+    public IActionResult Create(ProductDto productDto)
+    {
+        if (productDto.Image == null)
+        {
+            ModelState.AddModelError("Image", "Image is required");
+        }
+
+        if (!ModelState.IsValid)
+        {
+            return View(productDto);
+        }
+
+        // Save the image file
+        string newFileName = DateTime.Now.ToString("yyyyMMddHHmmssfff") + Path.GetExtension(productDto.Image.FileName);
+        string productsDirectory = Path.Combine(environment.WebRootPath, "products");
+
+        if (!Directory.Exists(productsDirectory))
+        {
+            Directory.CreateDirectory(productsDirectory);
+        }
+
+        string imageFullPath = Path.Combine(productsDirectory, newFileName);
+
+        using (var stream = System.IO.File.Create(imageFullPath))
+        {
+            productDto.Image.CopyTo(stream);
+        }
+
+        // Save the product in the database
+        Product product = new Product
+        {
+            Name = productDto.Name,
+            Image = newFileName
+        };
+
+        context.Products.Add(product);
+        context.SaveChanges();
+
+        return RedirectToAction("Index");
+    }
+}
