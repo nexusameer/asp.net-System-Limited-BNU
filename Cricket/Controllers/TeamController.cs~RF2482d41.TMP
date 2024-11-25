@@ -1,0 +1,23 @@
+﻿namespace Cricket.Controllers;
+
+using Cricket.Services;
+using Microsoft.AspNetCore.Mvc;
+using System.Linq;
+
+[Controller] // Marks this class as an MVC controller
+public class TeamController : Controller
+{
+    private readonly ApplicationDbContext context;
+
+    public TeamController(ApplicationDbContext context)
+    {
+        this.context = context;
+    }
+
+    // Action for displaying the list of teams
+    public IActionResult Index()
+    {
+        var teams = context.Teams.ToList(); // Fetch teams from the database
+        return View(teams); // Returns the Index.cshtml view with the teams data
+    }
+}

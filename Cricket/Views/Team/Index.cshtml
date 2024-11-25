@@ -1,0 +1,70 @@
+﻿@model IEnumerable<Cricket.Models.Team>
+@{
+    ViewData["Title"] = "Teams";
+    Layout = "_Layout";
+}
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Team Page</title>
+    <style>
+        table {
+            border-collapse: collapse;
+            width: 100%;
+        }
+        th, td {
+            border: 1px solid #ddd;
+            padding: 8px;
+            text-align: left;
+        }
+        th {
+            background-color: #f4f4f4;
+        }
+        tr:nth-child(even) {
+            background-color: #f9f9f9;
+        }
+        tr:hover {
+            background-color: #f1f1f1;
+        }
+    </style>
+</head>
+<body>
+    <h1>All Teams</h1>
+    <h2>
+        <a asp-controller="Team" asp-action="Create" class="btn btn-primary">Add Team</a>
+    </h2>
+    <table>
+        <thead>
+            <tr>
+                <th>Name</th>
+                <th>Logo</th>
+                <th>Ranking</th>
+                <th>Region</th>
+            </tr>
+        </thead>
+        <tbody>
+            @if (Model != null && Model.Any())
+            {
+                foreach (var team in Model)
+                {
+                            <tr>
+                                <td>@team.Name</td>
+                                <td>
+                                    <img src="@team.Logo" alt="@team.Name Logo" style="width: 100px; height: auto;" />
+                                </td>
+                                <td>@team.Ranking</td>
+                                <td>@team.Region</td>
+                            </tr>
+                }
+            }
+            else
+            {
+                    <tr>
+                        <td colspan="4" style="text-align: center;">No teams found.</td>
+                    </tr>
+            }
+        </tbody>
+    </table>
+</body>
+</html>

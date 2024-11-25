@@ -1,0 +1,23 @@
+﻿@model TeamDto
+@{
+}
+<!DOCTYPE <html xmlns="http://www.w3.org/1999/xhtml">
+    <head><title>Create Products</title></head>
+    <body>
+        <h1>New Products</h1>
+        <form mehtod="post" enctype="multipart/form-data">
+            <label>Team Name</label>
+			<input asp-for="name" />
+            <span asp-validation-for="Name"></span>
+            <br/>
+
+            <label>Logo</label>
+            <input asp-for="logo" />
+			<span asp-validation-for="logo"></span>
+			<br />
+
+            <label></label>
+			
+        </form>
+    </body>
+</html>
