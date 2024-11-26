@@ -29,7 +29,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 23 Nov 2024 10:02:43 GMT"
+          "Value": "Tue, 26 Nov 2024 05:20:29 GMT"
         }
       ],
       "EndpointProperties": [
@@ -74,7 +74,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 23 Nov 2024 10:02:43 GMT"
+          "Value": "Tue, 26 Nov 2024 05:20:29 GMT"
         }
       ],
       "EndpointProperties": [
@@ -5087,6 +5087,252 @@
       ]
     },
     {
+      "Route": "products/20241123205758288.jpg",
+      "AssetFile": "products/20241123205758288.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1437375"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"8b7FO0pQ+cENzROiX9eorNPJgkNiR6tTqOhcTzgqYko=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 23 Nov 2024 15:57:58 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-8b7FO0pQ+cENzROiX9eorNPJgkNiR6tTqOhcTzgqYko="
+        }
+      ]
+    },
+    {
+      "Route": "products/20241123205758288.x8juyogld0.jpg",
+      "AssetFile": "products/20241123205758288.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1437375"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"8b7FO0pQ+cENzROiX9eorNPJgkNiR6tTqOhcTzgqYko=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 23 Nov 2024 15:57:58 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "x8juyogld0"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-8b7FO0pQ+cENzROiX9eorNPJgkNiR6tTqOhcTzgqYko="
+        },
+        {
+          "Name": "label",
+          "Value": "products/20241123205758288.jpg"
+        }
+      ]
+    },
+    {
+      "Route": "products/20241123205822494.5wgjb8k0ph.jpg",
+      "AssetFile": "products/20241123205822494.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "278610"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"RSc3vl4In4RCRo7xG3hP501vXIukFDESNrhYIp+Lq+s=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 23 Nov 2024 15:58:22 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "5wgjb8k0ph"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-RSc3vl4In4RCRo7xG3hP501vXIukFDESNrhYIp+Lq+s="
+        },
+        {
+          "Name": "label",
+          "Value": "products/20241123205822494.jpg"
+        }
+      ]
+    },
+    {
+      "Route": "products/20241123205822494.jpg",
+      "AssetFile": "products/20241123205822494.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "278610"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"RSc3vl4In4RCRo7xG3hP501vXIukFDESNrhYIp+Lq+s=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 23 Nov 2024 15:58:22 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-RSc3vl4In4RCRo7xG3hP501vXIukFDESNrhYIp+Lq+s="
+        }
+      ]
+    },
+    {
+      "Route": "products/20241126103824536.jpg",
+      "AssetFile": "products/20241126103824536.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "876667"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"cfH+h3ryiQSOS/W0+S8exAf3ge7Rb6rGXDwvfC1nFe0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 26 Nov 2024 05:38:24 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-cfH+h3ryiQSOS/W0+S8exAf3ge7Rb6rGXDwvfC1nFe0="
+        }
+      ]
+    },
+    {
+      "Route": "products/20241126103824536.rtyx8ajlwy.jpg",
+      "AssetFile": "products/20241126103824536.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "876667"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"cfH+h3ryiQSOS/W0+S8exAf3ge7Rb6rGXDwvfC1nFe0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 26 Nov 2024 05:38:24 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "rtyx8ajlwy"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-cfH+h3ryiQSOS/W0+S8exAf3ge7Rb6rGXDwvfC1nFe0="
+        },
+        {
+          "Name": "label",
+          "Value": "products/20241126103824536.jpg"
+        }
+      ]
+    },
+    {
       "Route": "products/aquafina-water-500-ml.jpg",
       "AssetFile": "products/aquafina-water-500-ml.jpg",
       "Selectors": [],
@@ -5411,88 +5657,6 @@
         {
           "Name": "label",
           "Value": "products/cheetos-salted.jpg"
-        }
-      ]
-    },
-    {
-      "Route": "products/coca-cola-1.5-litre.jpg",
-      "AssetFile": "products/coca-cola-1.5-litre.jpg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "204912"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"6vDtsARpiTkjy5ywjOR/zTL0jyDF3ptIXE7ZqoCGlFY=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sun, 19 May 2024 18:00:22 GMT"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-6vDtsARpiTkjy5ywjOR/zTL0jyDF3ptIXE7ZqoCGlFY="
-        }
-      ]
-    },
-    {
-      "Route": "products/coca-cola-1.5-litre.ym7p2f2csl.jpg",
-      "AssetFile": "products/coca-cola-1.5-litre.jpg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "204912"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"6vDtsARpiTkjy5ywjOR/zTL0jyDF3ptIXE7ZqoCGlFY=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sun, 19 May 2024 18:00:22 GMT"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "ym7p2f2csl"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-6vDtsARpiTkjy5ywjOR/zTL0jyDF3ptIXE7ZqoCGlFY="
-        },
-        {
-          "Name": "label",
-          "Value": "products/coca-cola-1.5-litre.jpg"
         }
       ]
     },

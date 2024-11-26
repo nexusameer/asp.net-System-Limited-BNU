@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "rYH+nXZtwWq823RJBxH46BTEkujMyxEkP+xgx4+0qoc=",
+  "Hash": "/B5ZHcQhM3fO7BSx5gLB8e9krLwwjkHIYfj4DVtADwo=",
   "Source": "BestStoreMVC",
   "BasePath": "_content/BestStoreMVC",
   "Mode": "Default",
@@ -1340,6 +1340,69 @@
       "OriginalItemSpec": "wwwroot\\Products.zip"
     },
     {
+      "Identity": "F:\\Projects\\ASP.NET\\BestStoreMVC\\wwwroot\\products\\20241123205758288.jpg",
+      "SourceId": "BestStoreMVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "F:\\Projects\\ASP.NET\\BestStoreMVC\\wwwroot\\",
+      "BasePath": "_content/BestStoreMVC",
+      "RelativePath": "products/20241123205758288#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "x8juyogld0",
+      "Integrity": "8b7FO0pQ+cENzROiX9eorNPJgkNiR6tTqOhcTzgqYko=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\products\\20241123205758288.jpg"
+    },
+    {
+      "Identity": "F:\\Projects\\ASP.NET\\BestStoreMVC\\wwwroot\\products\\20241123205822494.jpg",
+      "SourceId": "BestStoreMVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "F:\\Projects\\ASP.NET\\BestStoreMVC\\wwwroot\\",
+      "BasePath": "_content/BestStoreMVC",
+      "RelativePath": "products/20241123205822494#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "5wgjb8k0ph",
+      "Integrity": "RSc3vl4In4RCRo7xG3hP501vXIukFDESNrhYIp+Lq+s=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\products\\20241123205822494.jpg"
+    },
+    {
+      "Identity": "F:\\Projects\\ASP.NET\\BestStoreMVC\\wwwroot\\products\\20241126103824536.jpg",
+      "SourceId": "BestStoreMVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "F:\\Projects\\ASP.NET\\BestStoreMVC\\wwwroot\\",
+      "BasePath": "_content/BestStoreMVC",
+      "RelativePath": "products/20241126103824536#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "rtyx8ajlwy",
+      "Integrity": "cfH+h3ryiQSOS/W0+S8exAf3ge7Rb6rGXDwvfC1nFe0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\products\\20241126103824536.jpg"
+    },
+    {
       "Identity": "F:\\Projects\\ASP.NET\\BestStoreMVC\\wwwroot\\products\\aquafina-water-500-ml.jpg",
       "SourceId": "BestStoreMVC",
       "SourceType": "Discovered",
@@ -1422,27 +1485,6 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\products\\cheetos-salted.jpg"
-    },
-    {
-      "Identity": "F:\\Projects\\ASP.NET\\BestStoreMVC\\wwwroot\\products\\coca-cola-1.5-litre.jpg",
-      "SourceId": "BestStoreMVC",
-      "SourceType": "Discovered",
-      "ContentRoot": "F:\\Projects\\ASP.NET\\BestStoreMVC\\wwwroot\\",
-      "BasePath": "_content/BestStoreMVC",
-      "RelativePath": "products/coca-cola-1.5-litre#[.{fingerprint}]?.jpg",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "ym7p2f2csl",
-      "Integrity": "6vDtsARpiTkjy5ywjOR/zTL0jyDF3ptIXE7ZqoCGlFY=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\products\\coca-cola-1.5-litre.jpg"
     },
     {
       "Identity": "F:\\Projects\\ASP.NET\\BestStoreMVC\\wwwroot\\products\\coca-cola-500-ml.jpg",
@@ -1910,7 +1952,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 23 Nov 2024 10:02:43 GMT"
+          "Value": "Tue, 26 Nov 2024 05:20:29 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1947,7 +1989,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 23 Nov 2024 10:02:43 GMT"
+          "Value": "Tue, 26 Nov 2024 05:20:29 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1992,7 +2034,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 23 Nov 2024 10:02:43 GMT"
+          "Value": "Tue, 26 Nov 2024 05:20:29 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2037,7 +2079,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 23 Nov 2024 10:02:43 GMT"
+          "Value": "Tue, 26 Nov 2024 05:20:29 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -7054,6 +7096,252 @@
       ]
     },
     {
+      "Route": "products/20241123205758288.jpg",
+      "AssetFile": "F:\\Projects\\ASP.NET\\BestStoreMVC\\wwwroot\\products\\20241123205758288.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1437375"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"8b7FO0pQ+cENzROiX9eorNPJgkNiR6tTqOhcTzgqYko=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 23 Nov 2024 15:57:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-8b7FO0pQ+cENzROiX9eorNPJgkNiR6tTqOhcTzgqYko="
+        }
+      ]
+    },
+    {
+      "Route": "products/20241123205758288.x8juyogld0.jpg",
+      "AssetFile": "F:\\Projects\\ASP.NET\\BestStoreMVC\\wwwroot\\products\\20241123205758288.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1437375"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"8b7FO0pQ+cENzROiX9eorNPJgkNiR6tTqOhcTzgqYko=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 23 Nov 2024 15:57:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "x8juyogld0"
+        },
+        {
+          "Name": "label",
+          "Value": "products/20241123205758288.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-8b7FO0pQ+cENzROiX9eorNPJgkNiR6tTqOhcTzgqYko="
+        }
+      ]
+    },
+    {
+      "Route": "products/20241123205822494.5wgjb8k0ph.jpg",
+      "AssetFile": "F:\\Projects\\ASP.NET\\BestStoreMVC\\wwwroot\\products\\20241123205822494.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "278610"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"RSc3vl4In4RCRo7xG3hP501vXIukFDESNrhYIp+Lq+s=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 23 Nov 2024 15:58:22 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "5wgjb8k0ph"
+        },
+        {
+          "Name": "label",
+          "Value": "products/20241123205822494.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-RSc3vl4In4RCRo7xG3hP501vXIukFDESNrhYIp+Lq+s="
+        }
+      ]
+    },
+    {
+      "Route": "products/20241123205822494.jpg",
+      "AssetFile": "F:\\Projects\\ASP.NET\\BestStoreMVC\\wwwroot\\products\\20241123205822494.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "278610"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"RSc3vl4In4RCRo7xG3hP501vXIukFDESNrhYIp+Lq+s=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 23 Nov 2024 15:58:22 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-RSc3vl4In4RCRo7xG3hP501vXIukFDESNrhYIp+Lq+s="
+        }
+      ]
+    },
+    {
+      "Route": "products/20241126103824536.jpg",
+      "AssetFile": "F:\\Projects\\ASP.NET\\BestStoreMVC\\wwwroot\\products\\20241126103824536.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "876667"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"cfH+h3ryiQSOS/W0+S8exAf3ge7Rb6rGXDwvfC1nFe0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 26 Nov 2024 05:38:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-cfH+h3ryiQSOS/W0+S8exAf3ge7Rb6rGXDwvfC1nFe0="
+        }
+      ]
+    },
+    {
+      "Route": "products/20241126103824536.rtyx8ajlwy.jpg",
+      "AssetFile": "F:\\Projects\\ASP.NET\\BestStoreMVC\\wwwroot\\products\\20241126103824536.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "876667"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"cfH+h3ryiQSOS/W0+S8exAf3ge7Rb6rGXDwvfC1nFe0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 26 Nov 2024 05:38:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "rtyx8ajlwy"
+        },
+        {
+          "Name": "label",
+          "Value": "products/20241126103824536.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-cfH+h3ryiQSOS/W0+S8exAf3ge7Rb6rGXDwvfC1nFe0="
+        }
+      ]
+    },
+    {
       "Route": "products/aquafina-water-500-ml.jpg",
       "AssetFile": "F:\\Projects\\ASP.NET\\BestStoreMVC\\wwwroot\\products\\aquafina-water-500-ml.jpg",
       "Selectors": [],
@@ -7378,88 +7666,6 @@
         {
           "Name": "integrity",
           "Value": "sha256-OJULOtIn1gC65lpvKgiUqCZSO1cBQV6mBQEJRfDBnio="
-        }
-      ]
-    },
-    {
-      "Route": "products/coca-cola-1.5-litre.jpg",
-      "AssetFile": "F:\\Projects\\ASP.NET\\BestStoreMVC\\wwwroot\\products\\coca-cola-1.5-litre.jpg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "204912"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"6vDtsARpiTkjy5ywjOR/zTL0jyDF3ptIXE7ZqoCGlFY=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sun, 19 May 2024 18:00:22 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-6vDtsARpiTkjy5ywjOR/zTL0jyDF3ptIXE7ZqoCGlFY="
-        }
-      ]
-    },
-    {
-      "Route": "products/coca-cola-1.5-litre.ym7p2f2csl.jpg",
-      "AssetFile": "F:\\Projects\\ASP.NET\\BestStoreMVC\\wwwroot\\products\\coca-cola-1.5-litre.jpg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "204912"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"6vDtsARpiTkjy5ywjOR/zTL0jyDF3ptIXE7ZqoCGlFY=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sun, 19 May 2024 18:00:22 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "ym7p2f2csl"
-        },
-        {
-          "Name": "label",
-          "Value": "products/coca-cola-1.5-litre.jpg"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-6vDtsARpiTkjy5ywjOR/zTL0jyDF3ptIXE7ZqoCGlFY="
         }
       ]
     },

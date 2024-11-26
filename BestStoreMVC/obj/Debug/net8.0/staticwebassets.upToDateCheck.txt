@@ -59,11 +59,13 @@ wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.js
 wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.min.js
 wwwroot\lib\jquery-validation-unobtrusive\LICENSE.txt
 wwwroot\Products.zip
+wwwroot\products\20241123205758288.jpg
+wwwroot\products\20241123205822494.jpg
+wwwroot\products\20241126103824536.jpg
 wwwroot\products\aquafina-water-500-ml.jpg
 wwwroot\products\big-bird-kebab.jpg
 wwwroot\products\big-bird-nuggets.jpg
 wwwroot\products\cheetos-salted.jpg
-wwwroot\products\coca-cola-1.5-litre.jpg
 wwwroot\products\coca-cola-500-ml.jpg
 wwwroot\products\dove-conditioner.png
 wwwroot\products\dove-shampoo.png

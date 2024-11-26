@@ -24,7 +24,7 @@
 					<td>@product.Name</td>
 					<td><img src="/products/@product.Image" alt="Alternate Text" width="100"/></td>
 					<td>
-								<a class="btn btn-primary" asp-controller="Products" asp-action="Edit" asp-route-id="@product.ProductId">Edit</a>
+								<a class="btn btn-primary" asp-controller="Products" asp-action="edit" asp-route-id="@product.ProductId">Edit</a>
 								<a class="btn btn-primary" asp-controller="Products" asp-action="Delete" asp-route-id="@product.ProductId">Delete</a>
 					</td>
 				</tr>

@@ -249,6 +249,18 @@
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
+      "Id": "F:\\Projects\\ASP.NET\\BestStoreMVC\\wwwroot\\products\\20241123205758288.jpg",
+      "PackagePath": "staticwebassets\\products\\20241123205758288.jpg"
+    },
+    {
+      "Id": "F:\\Projects\\ASP.NET\\BestStoreMVC\\wwwroot\\products\\20241123205822494.jpg",
+      "PackagePath": "staticwebassets\\products\\20241123205822494.jpg"
+    },
+    {
+      "Id": "F:\\Projects\\ASP.NET\\BestStoreMVC\\wwwroot\\products\\20241126103824536.jpg",
+      "PackagePath": "staticwebassets\\products\\20241126103824536.jpg"
+    },
+    {
       "Id": "F:\\Projects\\ASP.NET\\BestStoreMVC\\wwwroot\\products\\aquafina-water-500-ml.jpg",
       "PackagePath": "staticwebassets\\products\\aquafina-water-500-ml.jpg"
     },
@@ -263,10 +275,6 @@
     {
       "Id": "F:\\Projects\\ASP.NET\\BestStoreMVC\\wwwroot\\products\\cheetos-salted.jpg",
       "PackagePath": "staticwebassets\\products\\cheetos-salted.jpg"
-    },
-    {
-      "Id": "F:\\Projects\\ASP.NET\\BestStoreMVC\\wwwroot\\products\\coca-cola-1.5-litre.jpg",
-      "PackagePath": "staticwebassets\\products\\coca-cola-1.5-litre.jpg"
     },
     {
       "Id": "F:\\Projects\\ASP.NET\\BestStoreMVC\\wwwroot\\products\\coca-cola-500-ml.jpg",

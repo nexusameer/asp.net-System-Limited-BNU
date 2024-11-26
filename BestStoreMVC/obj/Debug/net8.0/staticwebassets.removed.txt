@@ -1,0 +1,3 @@
+F:\Projects\ASP.NET\BestStoreMVC\wwwroot\products\20241126103824536.jpg
+F:\Projects\ASP.NET\BestStoreMVC\wwwroot\products\coca-cola-500-ml.jpg
+F:\Projects\ASP.NET\BestStoreMVC\wwwroot\products\nestle-water-1.5-litre.jpg

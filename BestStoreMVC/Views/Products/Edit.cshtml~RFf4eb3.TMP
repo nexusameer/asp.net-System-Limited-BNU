@@ -1,0 +1,37 @@
+﻿@model ProductDto
+
+@{
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <title>Create Product</title>
+</head>
+<body>
+<h1>Update Product</h1>
+<form method="post" enctype="multipart/form-data">
+    <label>Product ID</label>
+    <input value="@ViewData["ProductId"]">
+    <br/>
+
+
+    <label>Name</label>
+    <input asp-for="Name">
+    <span asp-validation-for="Name"></span>
+    <br/>
+
+    <img src="/products/@ViewData["Image"]" width = "100" alt="Product Image">
+    <br/>
+
+    <label>Image</label>
+    <input asp-for="Image">
+    <span asp-validation-for="Image"></span>
+    <br/>
+
+    <button type="submit" class="btn btn-primary">Submit</button>
+    <a asp-controller="Products" asp-action="Index" class="btn btn-primary">Cancel</a>
+</form>
+</body>
+</html>
