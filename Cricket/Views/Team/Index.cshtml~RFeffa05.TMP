@@ -1,0 +1,32 @@
+﻿@model IEnumerable<Cricket.Models.Team>
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Teams</title>
+</head>
+<body>
+    <h1>All Teams</h1>
+    <table>
+        <thead>
+            <tr>
+                <th>Name</th>
+                <th>Logo</th>
+                <th>Ranking</th>
+                <th>Region</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var team in Model)
+            {
+                    <tr>
+                        <td>@team.Name</td>
+                        <td><img src="/teams/logos/@team.Logo" alt="@team.Name Logo" style="width: 100px; height: auto;" /></td>
+                        <td>@team.Ranking</td>
+                        <td>@team.Region</td>
+                    </tr>
+            }
+        </tbody>
+    </table>
+</body>
+</html>

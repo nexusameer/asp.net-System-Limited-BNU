@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Cricket")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c680171f3ba20c285330015105cc7173c80a3ecc")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+78083466f478e8cad0ce1ebe22b9bef5b7840f75")]
 [assembly: System.Reflection.AssemblyProductAttribute("Cricket")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Cricket")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,0 +1,45 @@
+﻿@model IEnumerable<Cricket.Models.Team>
+@{
+    ViewData["Title"] = "Teams";
+}
+
+<h1>All Teams</h1>
+<h2>
+    <a asp-controller="Team" asp-action="Create" class="btn btn-primary">Add Team</a>
+</h2>
+<table class="table table-striped table-bordered">
+    <thead>
+        <tr>
+            <th>Name</th>
+            <th>Logo</th>
+            <th>Ranking</th>
+            <th>Region</th>
+        </tr>
+    </thead>
+    <tbody>
+        @if (Model != null && Model.Any())
+        {
+            foreach (var team in Model)
+            {
+                        <tr>
+                            <td>@team.Name</td>
+                            <td>
+                                        <img src="/teams/logos/@team.Logo" : "/images/default-logo.png")" 
+                                     alt="@team.Name Logo" 
+                                     style="width: 100px; height: auto;" />
+                            </td>
+                            <td style="text-align: center;">@team.Ranking</td>
+                            <td>@team.Region</td>
+                        </tr>
+            }
+        }
+        else
+        {
+                <tr>
+                    <td colspan="4" style="text-align: center;">
+                        No teams found. <a asp-controller="Team" asp-action="Create">Add a new team</a>.
+                    </td>
+                </tr>
+        }
+    </tbody>
+</table>

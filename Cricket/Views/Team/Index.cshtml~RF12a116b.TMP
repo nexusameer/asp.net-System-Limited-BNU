@@ -28,23 +28,15 @@
 
                                 <!-- Update and Delete buttons -->
                                 <div class="d-flex justify-content-between">
-                                    <!-- Update Button -->
-                                    <a asp-action="Edit" asp-route-id="@team.Id" class="btn btn-warning btn-sm">Update</a>
+                                                                            <a asp-action="Create" class="btn btn-success btn-sm mb-3">Create New Team</a>
 
-                                    <!-- Delete Button -->
-                                    <form asp-action="Delete" asp-route-id="@team.Id" method="post" onsubmit="return confirm('Are you sure you want to delete this team?');">
-                                        <button type="submit" class="btn btn-danger btn-sm">Delete</button>
-                                    </form>
+                                    <a href="@Url.Action("Edit", new { id = team.Id })" class="btn btn-warning btn-sm">Update</a>
+                                    <a href="@Url.Action("Delete", new { id = team.Id })" class="btn btn-danger btn-sm">Delete</a>
                                 </div>
                             </div>
                         </div>
                     </div>
             }
-        </div>
-
-        <!-- Add Button -->
-        <div class="text-center">
-            <a asp-action="Create" class="btn btn-success btn-lg">Add New Team</a>
         </div>
     </div>
 

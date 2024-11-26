@@ -2,6 +2,9 @@ wwwroot\css\site.css
 wwwroot\favicon.ico
 wwwroot\images\logos\1.png
 wwwroot\images\logos\2.png
+wwwroot\images\logos\20241126145654604.jpg
+wwwroot\images\logos\20241126145705619.jpg
+wwwroot\images\logos\20241126150648533.png
 wwwroot\images\logos\3.png
 wwwroot\images\logos\4.png
 wwwroot\images\logos\5.png

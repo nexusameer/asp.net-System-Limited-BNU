@@ -1,0 +1,42 @@
+﻿@model Cricket.Models.TeamDto
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Edit Team</title>
+</head>
+<body>
+    <h1>Edit Team</h1>
+
+    <form asp-action="Edit" enctype="multipart/form-data" method="post">
+        <div class="form-group">
+            <label asp-for="Name" class="control-label"></label>
+            <input asp-for="Name" class="form-control" />
+            <span asp-validation-for="Name" class="text-danger"></span>
+        </div>
+
+        <div class="form-group">
+            <label asp-for="Logo" class="control-label"></label>
+            <input asp-for="Logo" type="file" class="form-control" />
+            <span asp-validation-for="Logo" class="text-danger"></span>
+        </div>
+
+        <div class="form-group">
+            <label asp-for="Ranking" class="control-label"></label>
+            <input asp-for="Ranking" type="number" class="form-control" />
+            <span asp-validation-for="Ranking" class="text-danger"></span>
+        </div>
+
+        <div class="form-group">
+            <label asp-for="Region" class="control-label"></label>
+            <input asp-for="Region" class="form-control" />
+            <span asp-validation-for="Region" class="text-danger"></span>
+        </div>
+
+        <div class="form-group">
+            <button type="submit" class="btn btn-primary">Update</button>
+            <a asp-action="Index" class="btn btn-secondary">Cancel</a>
+        </div>
+    </form>
+</body>
+</html>

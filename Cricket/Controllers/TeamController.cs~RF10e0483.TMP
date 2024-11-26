@@ -1,0 +1,172 @@
+﻿using Cricket.Models;
+using Cricket.Services;
+using Microsoft.AspNetCore.Hosting;
+using Microsoft.AspNetCore.Mvc;
+using Microsoft.Extensions.Logging;
+using System;
+using System.IO;
+using System.Linq;
+using System.Threading.Tasks;
+
+namespace Cricket.Controllers;
+
+public class TeamController : Controller
+{
+    private readonly IWebHostEnvironment _environment;
+    private readonly ApplicationDbContext _context;
+    private readonly ILogger<TeamController> _logger;
+
+    public TeamController(IWebHostEnvironment environment, ApplicationDbContext context, ILogger<TeamController> logger)
+    {
+        _environment = environment;
+        _context = context;
+        _logger = logger;
+    }
+
+    public IActionResult Index()
+    {
+        var teams = _context.Teams.ToList(); // Get all teams from the database
+
+        return View(teams); // Pass the teams to the view
+    }
+
+    [HttpGet]
+    public IActionResult Create()
+    {
+        return View();
+    }
+
+    [HttpPost]
+    public IActionResult Create(TeamDto teamDto)
+    {
+        if (teamDto.Logo == null)
+        {
+            ModelState.AddModelError("Logo", "Logo is required");
+        }
+
+        if (!ModelState.IsValid)
+        {
+            return View(teamDto);
+        }
+
+        try
+        {
+            // Save the logo file to the new directory
+            string newFileName = DateTime.Now.ToString("yyyyMMddHHmmssfff") + Path.GetExtension(teamDto.Logo.FileName);
+            string logosDirectory = Path.Combine(_environment.WebRootPath, "images", "logos"); // Update path here
+
+            if (!Directory.Exists(logosDirectory))
+            {
+                Directory.CreateDirectory(logosDirectory);
+            }
+
+            string logoFullPath = Path.Combine(logosDirectory, newFileName);
+
+            using (var stream = System.IO.File.Create(logoFullPath))
+            {
+                teamDto.Logo.CopyTo(stream);
+            }
+
+            // Save the team in the database
+            Team team = new Team
+            {
+                Name = teamDto.Name,
+                Logo = newFileName,  // Store the filename in the database
+                Ranking = teamDto.Ranking,
+                Region = teamDto.Region
+            };
+
+            _context.Teams.Add(team);
+            _context.SaveChanges();
+
+            _logger.LogInformation($"Team '{team.Name}' created successfully.");
+            return RedirectToAction("Index");
+        }
+        catch (Exception ex)
+        {
+            _logger.LogError($"Error creating team: {ex.Message}");
+            ModelState.AddModelError(string.Empty, "An error occurred while creating the team.");
+            return View(teamDto);
+        }
+    }
+    public IActionResult Edit(int id)
+    {
+        var team = _context.Teams.Find(id);
+        if (team == null)
+        {
+            return NotFound();
+        }
+        var teamDto = new TeamDto
+        {
+            Id = team.Id,
+            Name = team.Name,
+            Ranking = team.Ranking,
+            Region = team.Region,
+            Logo = team.Logo
+        };
+
+        return View(teamDto); // Pass the team data to the view
+    }
+
+    // POST: Edit Team
+    [HttpPost]
+    public IActionResult Edit(TeamDto teamDto)
+    {
+        if (!ModelState.IsValid)
+        {
+            return View(teamDto); // Return the form if validation fails
+        }
+
+        try
+        {
+            var team = _context.Teams.Find(teamDto.Id);
+            if (team == null)
+            {
+                return NotFound();
+            }
+
+            // Update the team details
+            team.Name = teamDto.Name;
+            team.Ranking = teamDto.Ranking;
+            team.Region = teamDto.Region;
+
+            // If a new logo is uploaded, update the logo
+            if (teamDto.Logo != null)
+            {
+                // Generate a unique file name for the uploaded logo
+                string newFileName = DateTime.Now.ToString("yyyyMMddHHmmssfff") + Path.GetExtension(teamDto.Logo.FileName);
+
+                // Path to store the logo in wwwroot/images/logos directory
+                string logosDirectory = Path.Combine(_environment.WebRootPath, "images", "logos");
+
+                if (!Directory.Exists(logosDirectory))
+                {
+                    Directory.CreateDirectory(logosDirectory);
+                }
+
+                // Full path to store the uploaded logo
+                string logoFullPath = Path.Combine(logosDirectory, newFileName);
+
+                // Save the logo file
+                using (var stream = new FileStream(logoFullPath, FileMode.Create))
+                {
+                    teamDto.Logo.CopyTo(stream);
+                }
+
+                // Update the logo path in the database (store only the file name)
+                team.Logo = newFileName; // Store the file name in the database
+            }
+
+            _context.SaveChanges(); // Save the changes to the database
+
+            _logger.LogInformation($"Team '{team.Name}' updated successfully.");
+            return RedirectToAction("Index"); // Redirect to the Index page after updating
+        }
+        catch (Exception ex)
+        {
+            _logger.LogError($"Error updating team: {ex.Message}");
+            ModelState.AddModelError(string.Empty, "An error occurred while updating the team.");
+            return View(teamDto);
+        }
+    }
+}

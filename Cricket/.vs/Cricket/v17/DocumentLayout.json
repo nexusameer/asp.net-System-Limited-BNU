@@ -3,24 +3,32 @@
   "WorkspaceRootPath": "F:\\Projects\\ASP.NET\\Cricket\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{08D596F5-C649-48B5-8D00-4C77EE49EA71}|Cricket.csproj|f:\\projects\\asp.net\\cricket\\views\\team\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{08D596F5-C649-48B5-8D00-4C77EE49EA71}|Cricket.csproj|solutionrelative:views\\team\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{08D596F5-C649-48B5-8D00-4C77EE49EA71}|Cricket.csproj|f:\\projects\\asp.net\\cricket\\controllers\\teamcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{08D596F5-C649-48B5-8D00-4C77EE49EA71}|Cricket.csproj|solutionrelative:controllers\\teamcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{08D596F5-C649-48B5-8D00-4C77EE49EA71}|Cricket.csproj|f:\\projects\\asp.net\\cricket\\models\\team.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08D596F5-C649-48B5-8D00-4C77EE49EA71}|Cricket.csproj|solutionrelative:models\\team.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{08D596F5-C649-48B5-8D00-4C77EE49EA71}|Cricket.csproj|f:\\projects\\asp.net\\cricket\\views\\team\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{08D596F5-C649-48B5-8D00-4C77EE49EA71}|Cricket.csproj|solutionrelative:views\\team\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{08D596F5-C649-48B5-8D00-4C77EE49EA71}|Cricket.csproj|f:\\projects\\asp.net\\cricket\\models\\teamdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{08D596F5-C649-48B5-8D00-4C77EE49EA71}|Cricket.csproj|solutionrelative:models\\teamdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{08D596F5-C649-48B5-8D00-4C77EE49EA71}|Cricket.csproj|f:\\projects\\asp.net\\cricket\\controllers\\teamcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08D596F5-C649-48B5-8D00-4C77EE49EA71}|Cricket.csproj|solutionrelative:controllers\\teamcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{08D596F5-C649-48B5-8D00-4C77EE49EA71}|Cricket.csproj|f:\\projects\\asp.net\\cricket\\models\\team.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{08D596F5-C649-48B5-8D00-4C77EE49EA71}|Cricket.csproj|solutionrelative:models\\team.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{08D596F5-C649-48B5-8D00-4C77EE49EA71}|Cricket.csproj|f:\\projects\\asp.net\\cricket\\views\\team\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{08D596F5-C649-48B5-8D00-4C77EE49EA71}|Cricket.csproj|solutionrelative:views\\team\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08D596F5-C649-48B5-8D00-4C77EE49EA71}|Cricket.csproj|f:\\projects\\asp.net\\cricket\\views\\team\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{08D596F5-C649-48B5-8D00-4C77EE49EA71}|Cricket.csproj|solutionrelative:views\\team\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08D596F5-C649-48B5-8D00-4C77EE49EA71}|Cricket.csproj|f:\\projects\\asp.net\\cricket\\views\\team\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{08D596F5-C649-48B5-8D00-4C77EE49EA71}|Cricket.csproj|solutionrelative:views\\team\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08D596F5-C649-48B5-8D00-4C77EE49EA71}|Cricket.csproj|f:\\projects\\asp.net\\cricket\\models\\teamdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08D596F5-C649-48B5-8D00-4C77EE49EA71}|Cricket.csproj|solutionrelative:models\\teamdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,8 +38,22 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 7,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "F:\\Projects\\ASP.NET\\Cricket\\Views\\Team\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Team\\Create.cshtml",
+              "ToolTip": "F:\\Projects\\ASP.NET\\Cricket\\Views\\Team\\Create.cshtml",
+              "RelativeToolTip": "Views\\Team\\Create.cshtml",
+              "ViewState": "AgIAACMAAAAAMDMzMzMEwCoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-24T07:15:22.443Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
@@ -42,65 +64,78 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "F:\\Projects\\ASP.NET\\Cricket\\Views\\Team\\Create.cshtml",
-              "RelativeDocumentMoniker": "Views\\Team\\Create.cshtml",
-              "ToolTip": "F:\\Projects\\ASP.NET\\Cricket\\Views\\Team\\Create.cshtml",
-              "RelativeToolTip": "Views\\Team\\Create.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAHAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "F:\\Projects\\ASP.NET\\Cricket\\Views\\Team\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\Team\\Delete.cshtml",
+              "ToolTip": "F:\\Projects\\ASP.NET\\Cricket\\Views\\Team\\Delete.cshtml",
+              "RelativeToolTip": "Views\\Team\\Delete.cshtml",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAswB0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-24T07:15:22.443Z",
+              "WhenOpened": "2024-11-26T10:00:59.139Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "F:\\Projects\\ASP.NET\\Cricket\\Views\\Team\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Team\\Edit.cshtml",
+              "ToolTip": "F:\\Projects\\ASP.NET\\Cricket\\Views\\Team\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Team\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-26T09:34:23.662Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "TeamController.cs",
               "DocumentMoniker": "F:\\Projects\\ASP.NET\\Cricket\\Controllers\\TeamController.cs",
               "RelativeDocumentMoniker": "Controllers\\TeamController.cs",
               "ToolTip": "F:\\Projects\\ASP.NET\\Cricket\\Controllers\\TeamController.cs",
               "RelativeToolTip": "Controllers\\TeamController.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAywCMAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAACkAAAAgYWZmZuYiwFwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-24T06:51:13.287Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Index.cshtml",
               "DocumentMoniker": "F:\\Projects\\ASP.NET\\Cricket\\Views\\Team\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Team\\Index.cshtml",
               "ToolTip": "F:\\Projects\\ASP.NET\\Cricket\\Views\\Team\\Index.cshtml",
               "RelativeToolTip": "Views\\Team\\Index.cshtml",
-              "ViewState": "AgIAABgAAAAAAAAAAAAAACcAAAAdAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAACgMzMzM7MtwDYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-11-24T06:47:40.486Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "Team.cs",
               "DocumentMoniker": "F:\\Projects\\ASP.NET\\Cricket\\Models\\Team.cs",
               "RelativeDocumentMoniker": "Models\\Team.cs",
               "ToolTip": "F:\\Projects\\ASP.NET\\Cricket\\Models\\Team.cs",
               "RelativeToolTip": "Models\\Team.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-24T06:44:56.626Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "TeamDto.cs",
               "DocumentMoniker": "F:\\Projects\\ASP.NET\\Cricket\\Models\\TeamDto.cs",
               "RelativeDocumentMoniker": "Models\\TeamDto.cs",
               "ToolTip": "F:\\Projects\\ASP.NET\\Cricket\\Models\\TeamDto.cs",
               "RelativeToolTip": "Models\\TeamDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAsAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-24T06:42:38.962Z",
               "EditorCaption": ""

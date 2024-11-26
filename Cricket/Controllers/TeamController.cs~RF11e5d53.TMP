@@ -31,67 +31,64 @@ public class TeamController : Controller
     }
 
     [HttpGet]
-    // GET: Create Team
     public IActionResult Create()
     {
         return View();
     }
 
-    // POST: Create Team
     [HttpPost]
-    [ValidateAntiForgeryToken]
     public IActionResult Create(TeamDto teamDto)
     {
+        if (teamDto.Logo == null)
+        {
+            ModelState.AddModelError("Logo", "Logo is required");
+        }
+
         if (!ModelState.IsValid)
         {
             return View(teamDto);
         }
 
-        string filePath = null;
-
-        // Handle the logo file upload
-        if (teamDto.Logo != null && teamDto.Logo.Length > 0)
+        try
         {
-            // Generate a unique file name for the uploaded logo
+            // Save the logo file to the new directory
             string newFileName = DateTime.Now.ToString("yyyyMMddHHmmssfff") + Path.GetExtension(teamDto.Logo.FileName);
-            string logosDirectory = Path.Combine(_environment.WebRootPath, "images", "logos");
+            string logosDirectory = Path.Combine(_environment.WebRootPath, "images", "logos"); // Update path here
 
-            // Ensure the directory exists
             if (!Directory.Exists(logosDirectory))
             {
                 Directory.CreateDirectory(logosDirectory);
             }
 
-            // Full path where the logo will be saved
             string logoFullPath = Path.Combine(logosDirectory, newFileName);
 
-            // Save the uploaded file to the server
             using (var stream = System.IO.File.Create(logoFullPath))
             {
                 teamDto.Logo.CopyTo(stream);
             }
 
-            // Store the file path for the database
-            filePath = Path.Combine("images", "logos", newFileName);
+            // Save the team in the database
+            Team team = new Team
+            {
+                Name = teamDto.Name,
+                Logo = newFileName,  // Store the filename in the database
+                Ranking = teamDto.Ranking,
+                Region = teamDto.Region
+            };
+
+            _context.Teams.Add(team);
+            _context.SaveChanges();
+
+            _logger.LogInformation($"Team '{team.Name}' created successfully.");
+            return RedirectToAction("Index");
         }
-
-        // Create a new team object
-        var team = new Team
+        catch (Exception ex)
         {
-            Name = teamDto.Name,
-            Logo = filePath,
-            Ranking = teamDto.Ranking,
-            Region = teamDto.Region
-        };
-
-        // Save the team to the database
-        _context.Teams.Add(team);
-        _context.SaveChanges();
-
-        return RedirectToAction("Index");
+            _logger.LogError($"Error creating team: {ex.Message}");
+            ModelState.AddModelError(string.Empty, "An error occurred while creating the team.");
+            return View(teamDto);
+        }
     }
-
-
     public IActionResult Edit(int id)
     {
         var team = _context.Teams.FirstOrDefault(t => t.Id == id);
@@ -118,8 +115,6 @@ public class TeamController : Controller
     [HttpPost]
     public IActionResult Edit(TeamDto teamDto)
     {
-        string filePath = null;  // Declare filePath outside the if block
-
         if (teamDto.Logo != null && teamDto.Logo.Length > 0)
         {
             // Generate a new unique file name for the uploaded logo
@@ -141,8 +136,9 @@ public class TeamController : Controller
                 teamDto.Logo.CopyTo(stream);
             }
 
-            // Store the file path as a string
-            filePath = Path.Combine("images", "logos", newFileName);
+            // Update the teamDto Logo to store the file path (as a string)
+            teamDto.Logo = null; // Remove the IFormFile object
+            string filePath = Path.Combine("images", "logos", newFileName); // Store file path as a string
         }
 
         // Retrieve the team from the database
@@ -168,45 +164,6 @@ public class TeamController : Controller
         _context.SaveChanges();
 
         // Redirect to the index or the appropriate view after updating
-        return RedirectToAction("Index");
-    }
-
-    public IActionResult Delete(int id)
-    {
-        var team = _context.Teams.FirstOrDefault(t => t.Id == id);
-        if (team == null)
-        {
-            return NotFound();
-        }
-
-        return View(team);
-    }
-
-    // POST: Delete Team
-    [HttpPost]
-    [ValidateAntiForgeryToken]
-    public IActionResult DeleteConfirmed(int id)
-    {
-        var team = _context.Teams.FirstOrDefault(t => t.Id == id);
-        if (team == null)
-        {
-            return NotFound();
-        }
-
-        // Delete the logo file from the server
-        if (!string.IsNullOrEmpty(team.Logo))
-        {
-            string logoPath = Path.Combine(_environment.WebRootPath, team.Logo);
-            if (System.IO.File.Exists(logoPath))
-            {
-                System.IO.File.Delete(logoPath);
-            }
-        }
-
-        // Remove the team from the database
-        _context.Teams.Remove(team);
-        _context.SaveChanges();
-
         return RedirectToAction("Index");
     }
 
