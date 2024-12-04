@@ -1,0 +1,40 @@
+﻿@model IEnumerable<Cycling.Models.CycleDto>
+
+@{
+    ViewData["Title"] = "Cycle List";
+}
+
+<h1>Cycle List</h1>
+
+<table class="table table-bordered">
+    <thead>
+        <tr>
+            <th>Id</th>
+            <th>Name</th>
+            <th>Gears</th>
+            <th>Company</th>
+            <th>Logo</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var cycle in Model)
+        {
+            <tr>
+                <td>@cycle.Id</td>
+                <td>@cycle.Name</td>
+                <td>@cycle.Gears</td>
+                <td>@cycle.Company</td>
+                <td>
+                    @if (!string.IsNullOrEmpty(cycle.Logo?.FileName))
+                    {
+                        <img src="@Url.Content("~/images/logos/" + cycle.Logo.FileName)" alt="Logo" width="50" />
+                    }
+                    else
+                    {
+                        <span>No Logo</span>
+                    }
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

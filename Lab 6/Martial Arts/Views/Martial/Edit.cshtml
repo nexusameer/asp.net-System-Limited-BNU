@@ -1,0 +1,37 @@
+﻿@model MartialArts.Models.Martial
+
+@{
+    ViewData["Title"] = "Edit Martial Art";
+}
+
+<h2>Edit Martial Art</h2>
+
+<form asp-action="Edit" enctype="multipart/form-data" method="post">
+    <div class="form-group">
+        <label for="Name">Name</label>
+        <input type="text" class="form-control" id="Name" name="Name" value="@Model.Name" required />
+    </div>
+    <div class="form-group">
+        <label for="Description">Description</label>
+        <input type="text" class="form-control" id="Description" name="Description" value="@Model.Description" required />
+    </div>
+    <div class="form-group">
+        <label for="Origin">Origin</label>
+        <input type="text" class="form-control" id="Origin" name="Origin" value="@Model.Origin" required />
+    </div>
+    <div class="form-group">
+        <label for="Popularity">Popularity</label>
+        <input type="number" class="form-control" id="Popularity" name="Popularity" value="@Model.Popularity" required />
+    </div>
+    <div class="form-group">
+        <label for="ImageFile">Image</label>
+        <input type="file" class="form-control" id="ImageFile" name="imageFile" />
+    </div>
+    <div class="form-group">
+        <label>Current Image:</label><br />
+        <img src="@Model.ImagePath" alt="Current Image" style="width:100px; height:100px;" />
+    </div>
+    <button type="submit" class="btn btn-primary">Save</button>
+</form>
+
+<a href="@Url.Action("Index")" class="btn btn-secondary">Back to List</a>

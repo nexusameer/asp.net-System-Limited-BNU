@@ -1,0 +1,148 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\Projects\\ASP.NET\\Cycling\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2ADE1F8D-EEF1-4448-ACA4-91922003F631}|Cycling.csproj|f:\\projects\\asp.net\\cycling\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2ADE1F8D-EEF1-4448-ACA4-91922003F631}|Cycling.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2ADE1F8D-EEF1-4448-ACA4-91922003F631}|Cycling.csproj|f:\\projects\\asp.net\\cycling\\views\\cycle\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2ADE1F8D-EEF1-4448-ACA4-91922003F631}|Cycling.csproj|solutionrelative:views\\cycle\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2ADE1F8D-EEF1-4448-ACA4-91922003F631}|Cycling.csproj|f:\\projects\\asp.net\\cycling\\views\\cycle\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2ADE1F8D-EEF1-4448-ACA4-91922003F631}|Cycling.csproj|solutionrelative:views\\cycle\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2ADE1F8D-EEF1-4448-ACA4-91922003F631}|Cycling.csproj|f:\\projects\\asp.net\\cycling\\models\\cycledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2ADE1F8D-EEF1-4448-ACA4-91922003F631}|Cycling.csproj|solutionrelative:models\\cycledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2ADE1F8D-EEF1-4448-ACA4-91922003F631}|Cycling.csproj|f:\\projects\\asp.net\\cycling\\views\\cycle\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2ADE1F8D-EEF1-4448-ACA4-91922003F631}|Cycling.csproj|solutionrelative:views\\cycle\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2ADE1F8D-EEF1-4448-ACA4-91922003F631}|Cycling.csproj|f:\\projects\\asp.net\\cycling\\controllers\\cyclescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2ADE1F8D-EEF1-4448-ACA4-91922003F631}|Cycling.csproj|solutionrelative:controllers\\cyclescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2ADE1F8D-EEF1-4448-ACA4-91922003F631}|Cycling.csproj|f:\\projects\\asp.net\\cycling\\views\\cycle\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2ADE1F8D-EEF1-4448-ACA4-91922003F631}|Cycling.csproj|solutionrelative:views\\cycle\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "F:\\Projects\\ASP.NET\\Cycling\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "F:\\Projects\\ASP.NET\\Cycling\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABIAAAAozczMzMwnwA8AAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-29T16:53:10.97Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "F:\\Projects\\ASP.NET\\Cycling\\Views\\Cycle\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\Cycle\\Delete.cshtml",
+              "ToolTip": "F:\\Projects\\ASP.NET\\Cycling\\Views\\Cycle\\Delete.cshtml",
+              "RelativeToolTip": "Views\\Cycle\\Delete.cshtml",
+              "ViewState": "AgIAAAEAAADSzMzMzIwpwA0AAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-29T17:30:01.302Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "F:\\Projects\\ASP.NET\\Cycling\\Views\\Cycle\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Cycle\\Edit.cshtml",
+              "ToolTip": "F:\\Projects\\ASP.NET\\Cycling\\Views\\Cycle\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Cycle\\Edit.cshtml",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAIwB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-29T17:24:20.223Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CycleDto.cs",
+              "DocumentMoniker": "F:\\Projects\\ASP.NET\\Cycling\\Models\\CycleDto.cs",
+              "RelativeDocumentMoniker": "Models\\CycleDto.cs",
+              "ToolTip": "F:\\Projects\\ASP.NET\\Cycling\\Models\\CycleDto.cs",
+              "RelativeToolTip": "Models\\CycleDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T17:15:56.428Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{c9c0ae26-aa77-11d2-b3f0-0000f87570ee}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "F:\\Projects\\ASP.NET\\Cycling\\Views\\Cycle\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Cycle\\Create.cshtml",
+              "ToolTip": "F:\\Projects\\ASP.NET\\Cycling\\Views\\Cycle\\Create.cshtml",
+              "RelativeToolTip": "Views\\Cycle\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-29T17:10:11.823Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "F:\\Projects\\ASP.NET\\Cycling\\Views\\Cycle\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Cycle\\Index.cshtml",
+              "ToolTip": "F:\\Projects\\ASP.NET\\Cycling\\Views\\Cycle\\Index.cshtml",
+              "RelativeToolTip": "Views\\Cycle\\Index.cshtml",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAIwCwAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-29T17:06:25.139Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CyclesController.cs",
+              "DocumentMoniker": "F:\\Projects\\ASP.NET\\Cycling\\Controllers\\CyclesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CyclesController.cs",
+              "ToolTip": "F:\\Projects\\ASP.NET\\Cycling\\Controllers\\CyclesController.cs",
+              "RelativeToolTip": "Controllers\\CyclesController.cs",
+              "ViewState": "AgIAAKgAAABgAAAAAKA+wLEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T13:10:22.122Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

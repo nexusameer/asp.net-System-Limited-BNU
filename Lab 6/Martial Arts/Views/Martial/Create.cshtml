@@ -1,0 +1,38 @@
+﻿@model MartialArts.Models.Martial
+
+<h2>Create Martial Art</h2>
+
+<form asp-action="Create" method="post" enctype="multipart/form-data">
+    <div class="form-group">
+        <label asp-for="Name"></label>
+        <input asp-for="Name" class="form-control" />
+        <span asp-validation-for="Name" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="Description"></label>
+        <textarea asp-for="Description" class="form-control"></textarea>
+        <span asp-validation-for="Description" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="Origin"></label>
+        <input asp-for="Origin" class="form-control" />
+        <span asp-validation-for="Origin" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="Popularity"></label>
+        <input asp-for="Popularity" type="number" class="form-control" />
+        <span asp-validation-for="Popularity" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label for="imageFile">Image</label>
+        <input type="file" name="imageFile" class="form-control" />
+    </div>
+
+    <button type="submit" class="btn btn-primary">Create</button>
+</form>
+
+<a asp-action="Index" class="btn btn-secondary">Back to List</a>

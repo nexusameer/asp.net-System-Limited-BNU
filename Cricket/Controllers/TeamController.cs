@@ -179,8 +179,23 @@ public class TeamController : Controller
             return NotFound();
         }
 
-        return View(team);
+        // Delete the logo file from the server
+        if (!string.IsNullOrEmpty(team.Logo))
+        {
+            string logoPath = Path.Combine(_environment.WebRootPath, team.Logo);
+            if (System.IO.File.Exists(logoPath))
+            {
+                System.IO.File.Delete(logoPath);
+            }
+        }
+
+        // Remove the team from the database
+        _context.Teams.Remove(team);
+        _context.SaveChanges();
+
+        return RedirectToAction("Index");
     }
+
 
     // POST: Delete Team
     [HttpPost]

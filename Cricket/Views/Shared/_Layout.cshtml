@@ -4,13 +4,29 @@
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>@ViewData["Title"] - Cricket</title>
-    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" />
     <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
-    <link rel="stylesheet" href="~/Cricket.styles.css" asp-append-version="true" />
+    <style>
+        body{
+            background-color:black;
+        }
+        /* Make the carousel and images 100vh */
+        #cricketCarousel {
+            height: 100vh;
+        }
+        #cricketCarousel .carousel-inner {
+            height: 100vh;
+        }
+        #cricketCarousel .carousel-item img {
+            object-fit: cover;
+            height: 100vh;
+            width: 100%;
+        }
+    </style>
 </head>
 <body>
     <header>
-        <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-white border-bottom box-shadow mb-3">
+        <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-dark bg-dark border-bottom box-shadow mb-3">
             <div class="container-fluid">
                 <a class="navbar-brand" asp-area="" asp-controller="Home" asp-action="Index">Cricket</a>
                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target=".navbar-collapse" aria-controls="navbarSupportedContent"
@@ -20,29 +36,60 @@
                 <div class="navbar-collapse collapse d-sm-inline-flex justify-content-between">
                     <ul class="navbar-nav flex-grow-1">
                         <li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Index">Home</a>
+                            <a class="nav-link text-light" asp-area="" asp-controller="Home" asp-action="Index">Home</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="" asp-controller="Team" asp-action="Index">All Teams</a>
+                            <a class="nav-link text-light" asp-area="" asp-controller="Team" asp-action="Index">All Teams</a>
                         </li>
                     </ul>
                 </div>
             </div>
         </nav>
     </header>
+
+    <!-- Bootstrap Slider -->
+    <div id="cricketCarousel" class="carousel slide mb-4" data-bs-ride="carousel">
+        <div class="carousel-inner">
+            <div class="carousel-item active">
+                <img src="https://as2.ftcdn.net/v2/jpg/08/86/05/87/1000_F_886058755_GnfDgLdqXmZsgHFKevSreZD3B6vR6uZW.jpg" class="d-block w-100" alt="Cricket Match 1">
+                <div class="carousel-caption d-none d-md-block">
+                    <h5>Exciting Cricket Matches</h5>
+                    <p>Catch the latest action!</p>
+                </div>
+            </div>
+            <div class="carousel-item">
+                <img src="https://as1.ftcdn.net/v2/jpg/06/87/99/46/1000_F_687994619_EsDIMiMqpmvP8eGwZPX2w0zPTr100rt8.jpg" class="d-block w-100" alt="Cricket Match 2">
+                <div class="carousel-caption d-none d-md-block">
+                    <h5>World-Class Players</h5>
+                    <p>See your favorite players in action.</p>
+                </div>
+            </div>
+            <div class="carousel-item">
+                <img src="https://as1.ftcdn.net/v2/jpg/08/01/86/94/1000_F_801869416_Ac4Uui6rN0UyC54ukzXXTL4jDU6APQeX.jpg" class="d-block w-100" alt="Cricket Match 3">
+                <div class="carousel-caption d-none d-md-block">
+                    <h5>Cricket Highlights</h5>
+                    <p>Revisit iconic moments from past games.</p>
+                </div>
+            </div>
+        </div>
+        <button class="carousel-control-prev" type="button" data-bs-target="#cricketCarousel" data-bs-slide="prev">
+            <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+            <span class="visually-hidden">Previous</span>
+        </button>
+        <button class="carousel-control-next" type="button" data-bs-target="#cricketCarousel" data-bs-slide="next">
+            <span class="carousel-control-next-icon" aria-hidden="true"></span>
+            <span class="visually-hidden">Next</span>
+        </button>
+    </div>
+
     <div class="container">
         <main role="main" class="pb-3">
             @RenderBody()
         </main>
     </div>
 
-    <footer class="border-top footer text-muted">
-        <div class="container">
-            &copy; 2024 - Cricket - <a asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
-        </div>
-    </footer>
-    <script src="~/lib/jquery/dist/jquery.min.js"></script>
-    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js"></script>
     <script src="~/js/site.js" asp-append-version="true"></script>
     @await RenderSectionAsync("Scripts", required: false)
 </body>

@@ -1,0 +1,30 @@
+﻿@model Cycling.Models.CycleDto
+
+<h2>Edit Cycle</h2>
+
+<form asp-action="Edit" method="post" enctype="multipart/form-data">
+    <input type="hidden" asp-for="Id" />
+    <div class="form-group">
+        <label asp-for="Name" class="control-label"></label>
+        <input asp-for="Name" class="form-control" />
+        <span asp-validation-for="Name" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="Gears" class="control-label"></label>
+        <input asp-for="Gears" class="form-control" />
+        <span asp-validation-for="Gears" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="Company" class="control-label"></label>
+        <input asp-for="Company" class="form-control" />
+        <span asp-validation-for="Company" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="Logo" class="control-label"></label>
+        <input asp-for="Logo" type="file" class="form-control" />
+        <span asp-validation-for="Logo" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <input type="submit" value="Save Changes" class="btn btn-primary" />
+    </div>
+</form>

@@ -1,0 +1,51 @@
+﻿@model IEnumerable<Cycling.Models.Cycle>
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cycles</title>
+    <!-- Add Bootstrap 5 CDN -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet" />
+</head>
+<body>
+    <div class="container my-5">
+        <h1 class="text-center mb-4">All Cycles</h1>
+        <div class="text-end mb-3">
+            <a asp-controller="Cycle" asp-action="Create" class="btn btn-success">Add New Cycle</a>
+        </div>
+        <table class="table table-striped table-bordered">
+            <thead class="table-dark">
+                <tr>
+                    <th>Logo</th>
+                    <th>Name</th>
+                    <th>Company</th>
+                    <th>Gears</th>
+                    <th>Actions</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var cycle in Model)
+                {
+                    <tr>
+                        <td>
+                            <img src="images/logos/@cycle.Logo" alt="@cycle.Name Logo" style="width: 100px; height: auto;" />
+                        </td>
+                        <td>@cycle.Name</td>
+                        <td>@cycle.Company</td>
+                        <td>@cycle.Gears</td>
+                        <td>
+                            <a asp-controller="Cycle" asp-action="Edit" asp-route-id="@cycle.Id" class="btn btn-primary btn-sm">Edit</a>
+                            <a asp-controller="Cycle" asp-action="Delete" asp-route-id="@cycle.Id" class="btn btn-danger btn-sm">Delete</a>
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+
+    <!-- Add Bootstrap JS -->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js"></script>
+</body>
+</html>

@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "u02IJ5iTpaAQjboJwLtXlM1KsBGA41+1pxdXXGgnPJU=",
+  "Hash": "RWmkOeNo9ZSidv54DKWuMuOwb1nyNpurKECDTXW9Pic=",
   "Source": "Cricket",
   "BasePath": "_content/Cricket",
   "Mode": "Default",
@@ -204,6 +204,132 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\logos\\20241126150648533.png"
+    },
+    {
+      "Identity": "F:\\Projects\\ASP.NET\\Cricket\\wwwroot\\images\\logos\\20241126151133529.png",
+      "SourceId": "Cricket",
+      "SourceType": "Discovered",
+      "ContentRoot": "F:\\Projects\\ASP.NET\\Cricket\\wwwroot\\",
+      "BasePath": "_content/Cricket",
+      "RelativePath": "images/logos/20241126151133529#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "es9qwc1zp5",
+      "Integrity": "8qtKq4q6Ne6F2K0/3L+/eqjGDFHMmL4Pk123Uy1lNag=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\logos\\20241126151133529.png"
+    },
+    {
+      "Identity": "F:\\Projects\\ASP.NET\\Cricket\\wwwroot\\images\\logos\\20241130072719671.png",
+      "SourceId": "Cricket",
+      "SourceType": "Discovered",
+      "ContentRoot": "F:\\Projects\\ASP.NET\\Cricket\\wwwroot\\",
+      "BasePath": "_content/Cricket",
+      "RelativePath": "images/logos/20241130072719671#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "a7a1c6gm5w",
+      "Integrity": "5s3Dq3TDSeBE+JlVJXOOnnKLeMFt/beWvkceVeiXTVo=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\logos\\20241130072719671.png"
+    },
+    {
+      "Identity": "F:\\Projects\\ASP.NET\\Cricket\\wwwroot\\images\\logos\\20241130072728194.png",
+      "SourceId": "Cricket",
+      "SourceType": "Discovered",
+      "ContentRoot": "F:\\Projects\\ASP.NET\\Cricket\\wwwroot\\",
+      "BasePath": "_content/Cricket",
+      "RelativePath": "images/logos/20241130072728194#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ni9pmloupq",
+      "Integrity": "b0Z7AHd9irMi97nobC2+c9j2l7Y2PiLz0I3RA+X/GOI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\logos\\20241130072728194.png"
+    },
+    {
+      "Identity": "F:\\Projects\\ASP.NET\\Cricket\\wwwroot\\images\\logos\\20241130072742976.png",
+      "SourceId": "Cricket",
+      "SourceType": "Discovered",
+      "ContentRoot": "F:\\Projects\\ASP.NET\\Cricket\\wwwroot\\",
+      "BasePath": "_content/Cricket",
+      "RelativePath": "images/logos/20241130072742976#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "qez4ucozlr",
+      "Integrity": "QloB8+5y8nkqSYz2X5LvXhYR1rskck2DFCkq8WCzoiQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\logos\\20241130072742976.png"
+    },
+    {
+      "Identity": "F:\\Projects\\ASP.NET\\Cricket\\wwwroot\\images\\logos\\20241130072808242.png",
+      "SourceId": "Cricket",
+      "SourceType": "Discovered",
+      "ContentRoot": "F:\\Projects\\ASP.NET\\Cricket\\wwwroot\\",
+      "BasePath": "_content/Cricket",
+      "RelativePath": "images/logos/20241130072808242#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "jhg80pcobs",
+      "Integrity": "iTZKDxQI+YP+cV5Ic6qctLjRZ/T5KE+MXDNdIap7u8E=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\logos\\20241130072808242.png"
+    },
+    {
+      "Identity": "F:\\Projects\\ASP.NET\\Cricket\\wwwroot\\images\\logos\\20241130072822213.png",
+      "SourceId": "Cricket",
+      "SourceType": "Discovered",
+      "ContentRoot": "F:\\Projects\\ASP.NET\\Cricket\\wwwroot\\",
+      "BasePath": "_content/Cricket",
+      "RelativePath": "images/logos/20241130072822213#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ffzmwu6qfa",
+      "Integrity": "JWsYbz8GsymrZMiM8Gsf9939LoJzBAuWRz4thGs0VSs=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\logos\\20241130072822213.png"
     },
     {
       "Identity": "F:\\Projects\\ASP.NET\\Cricket\\wwwroot\\images\\logos\\3.png",
@@ -2265,6 +2391,498 @@
         {
           "Name": "integrity",
           "Value": "sha256-5s3Dq3TDSeBE+JlVJXOOnnKLeMFt/beWvkceVeiXTVo="
+        }
+      ]
+    },
+    {
+      "Route": "images/logos/20241126151133529.es9qwc1zp5.png",
+      "AssetFile": "F:\\Projects\\ASP.NET\\Cricket\\wwwroot\\images\\logos\\20241126151133529.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "15849"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"8qtKq4q6Ne6F2K0/3L+/eqjGDFHMmL4Pk123Uy1lNag=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 26 Nov 2024 10:11:33 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "es9qwc1zp5"
+        },
+        {
+          "Name": "label",
+          "Value": "images/logos/20241126151133529.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-8qtKq4q6Ne6F2K0/3L+/eqjGDFHMmL4Pk123Uy1lNag="
+        }
+      ]
+    },
+    {
+      "Route": "images/logos/20241126151133529.png",
+      "AssetFile": "F:\\Projects\\ASP.NET\\Cricket\\wwwroot\\images\\logos\\20241126151133529.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "15849"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"8qtKq4q6Ne6F2K0/3L+/eqjGDFHMmL4Pk123Uy1lNag=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 26 Nov 2024 10:11:33 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-8qtKq4q6Ne6F2K0/3L+/eqjGDFHMmL4Pk123Uy1lNag="
+        }
+      ]
+    },
+    {
+      "Route": "images/logos/20241130072719671.a7a1c6gm5w.png",
+      "AssetFile": "F:\\Projects\\ASP.NET\\Cricket\\wwwroot\\images\\logos\\20241130072719671.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "9185"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5s3Dq3TDSeBE+JlVJXOOnnKLeMFt/beWvkceVeiXTVo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 30 Nov 2024 02:27:19 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "a7a1c6gm5w"
+        },
+        {
+          "Name": "label",
+          "Value": "images/logos/20241130072719671.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-5s3Dq3TDSeBE+JlVJXOOnnKLeMFt/beWvkceVeiXTVo="
+        }
+      ]
+    },
+    {
+      "Route": "images/logos/20241130072719671.png",
+      "AssetFile": "F:\\Projects\\ASP.NET\\Cricket\\wwwroot\\images\\logos\\20241130072719671.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "9185"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5s3Dq3TDSeBE+JlVJXOOnnKLeMFt/beWvkceVeiXTVo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 30 Nov 2024 02:27:19 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-5s3Dq3TDSeBE+JlVJXOOnnKLeMFt/beWvkceVeiXTVo="
+        }
+      ]
+    },
+    {
+      "Route": "images/logos/20241130072728194.ni9pmloupq.png",
+      "AssetFile": "F:\\Projects\\ASP.NET\\Cricket\\wwwroot\\images\\logos\\20241130072728194.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "16355"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"b0Z7AHd9irMi97nobC2+c9j2l7Y2PiLz0I3RA+X/GOI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 30 Nov 2024 02:27:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ni9pmloupq"
+        },
+        {
+          "Name": "label",
+          "Value": "images/logos/20241130072728194.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-b0Z7AHd9irMi97nobC2+c9j2l7Y2PiLz0I3RA+X/GOI="
+        }
+      ]
+    },
+    {
+      "Route": "images/logos/20241130072728194.png",
+      "AssetFile": "F:\\Projects\\ASP.NET\\Cricket\\wwwroot\\images\\logos\\20241130072728194.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "16355"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"b0Z7AHd9irMi97nobC2+c9j2l7Y2PiLz0I3RA+X/GOI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 30 Nov 2024 02:27:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-b0Z7AHd9irMi97nobC2+c9j2l7Y2PiLz0I3RA+X/GOI="
+        }
+      ]
+    },
+    {
+      "Route": "images/logos/20241130072742976.png",
+      "AssetFile": "F:\\Projects\\ASP.NET\\Cricket\\wwwroot\\images\\logos\\20241130072742976.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "25910"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"QloB8+5y8nkqSYz2X5LvXhYR1rskck2DFCkq8WCzoiQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 30 Nov 2024 02:27:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-QloB8+5y8nkqSYz2X5LvXhYR1rskck2DFCkq8WCzoiQ="
+        }
+      ]
+    },
+    {
+      "Route": "images/logos/20241130072742976.qez4ucozlr.png",
+      "AssetFile": "F:\\Projects\\ASP.NET\\Cricket\\wwwroot\\images\\logos\\20241130072742976.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "25910"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"QloB8+5y8nkqSYz2X5LvXhYR1rskck2DFCkq8WCzoiQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 30 Nov 2024 02:27:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "qez4ucozlr"
+        },
+        {
+          "Name": "label",
+          "Value": "images/logos/20241130072742976.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-QloB8+5y8nkqSYz2X5LvXhYR1rskck2DFCkq8WCzoiQ="
+        }
+      ]
+    },
+    {
+      "Route": "images/logos/20241130072808242.jhg80pcobs.png",
+      "AssetFile": "F:\\Projects\\ASP.NET\\Cricket\\wwwroot\\images\\logos\\20241130072808242.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2001"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"iTZKDxQI+YP+cV5Ic6qctLjRZ/T5KE+MXDNdIap7u8E=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 30 Nov 2024 02:28:08 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "jhg80pcobs"
+        },
+        {
+          "Name": "label",
+          "Value": "images/logos/20241130072808242.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-iTZKDxQI+YP+cV5Ic6qctLjRZ/T5KE+MXDNdIap7u8E="
+        }
+      ]
+    },
+    {
+      "Route": "images/logos/20241130072808242.png",
+      "AssetFile": "F:\\Projects\\ASP.NET\\Cricket\\wwwroot\\images\\logos\\20241130072808242.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2001"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"iTZKDxQI+YP+cV5Ic6qctLjRZ/T5KE+MXDNdIap7u8E=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 30 Nov 2024 02:28:08 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-iTZKDxQI+YP+cV5Ic6qctLjRZ/T5KE+MXDNdIap7u8E="
+        }
+      ]
+    },
+    {
+      "Route": "images/logos/20241130072822213.ffzmwu6qfa.png",
+      "AssetFile": "F:\\Projects\\ASP.NET\\Cricket\\wwwroot\\images\\logos\\20241130072822213.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "10378"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"JWsYbz8GsymrZMiM8Gsf9939LoJzBAuWRz4thGs0VSs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 30 Nov 2024 02:28:22 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ffzmwu6qfa"
+        },
+        {
+          "Name": "label",
+          "Value": "images/logos/20241130072822213.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-JWsYbz8GsymrZMiM8Gsf9939LoJzBAuWRz4thGs0VSs="
+        }
+      ]
+    },
+    {
+      "Route": "images/logos/20241130072822213.png",
+      "AssetFile": "F:\\Projects\\ASP.NET\\Cricket\\wwwroot\\images\\logos\\20241130072822213.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "10378"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"JWsYbz8GsymrZMiM8Gsf9939LoJzBAuWRz4thGs0VSs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 30 Nov 2024 02:28:22 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-JWsYbz8GsymrZMiM8Gsf9939LoJzBAuWRz4thGs0VSs="
         }
       ]
     },
