@@ -8,7 +8,7 @@ namespace Willingo.Models
 
         [Required(ErrorMessage = "Title is required")]
         [StringLength(100, ErrorMessage = "Title cannot be longer than 100 characters")]
-        public string Title { get; set; }
+        public string Title { get; set; } = string.Empty;
 
         [StringLength(500, ErrorMessage = "Description cannot be longer than 500 characters")]
         public string? Description { get; set; }
@@ -18,9 +18,11 @@ namespace Willingo.Models
 
         public string? ImagePath { get; set; }
 
-        [Range(1, int.MaxValue, ErrorMessage = "Please select a category")]
+        [Required]
+        [Range(1, int.MaxValue, ErrorMessage = "Please select a valid category")]
         public int CategoryId { get; set; }
 
+        // Navigation Property
         public Category? Category { get; set; }
     }
 }

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Willingo")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ada5d6bf5ac9b106cf5c8e0399312d8cd62d53aa")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e1a473f102d70abe64f7b61557e9d10f9d3adc59")]
 [assembly: System.Reflection.AssemblyProductAttribute("Willingo")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Willingo")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -22,7 +22,7 @@
                     <div class="card-body">
                         <h5 class="card-title">@category.Title</h5>
                         <p class="card-text">
-                            <strong>Number of Products:</strong> @category.Products?.Count() ?? 0
+                            <strong>Number of Products:</strong>
                         </p>
                         <div class="d-flex justify-content-between">
                             <a href="@Url.Action("Edit", "Category", new { id = category.Id })" class="btn btn-warning btn-sm">

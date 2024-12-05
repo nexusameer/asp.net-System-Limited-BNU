@@ -1,0 +1,45 @@
+﻿@model IEnumerable<Willingo.Models.Product>
+
+@{
+    ViewData["Title"] = "Products";
+}
+
+<!-- Add Product Button -->
+<div class="text-center my-4">
+    <a asp-action="Create" class="btn btn-success btn-lg">
+        <i class="fas fa-plus-circle"></i> Add Product
+    </a>
+</div>
+
+<!-- Products List Start -->
+<div class="container-fluid mb-3">
+    <div class="row px-xl-5">
+        @foreach (var product in Model)
+        {
+            <div class="col-lg-4 col-md-6 col-sm-12 mb-4">
+                <div class="card shadow-sm">
+                    <img class="card-img-top" src="@product.ImagePath" alt="@product.Title" style="height: 200px; object-fit: cover;">
+                    <div class="card-body">
+                        <h5 class="card-title">@product.Title</h5>
+                        <p class="card-text">
+                            <strong>Price:</strong> $@product.Price <br />
+                            <strong>Description:</strong> @product.Description <br />
+                            <strong>Category:</strong> @product.Category.Title
+                        </p>
+                        <div class="d-flex justify-content-between">
+                            <a href="@Url.Action("Edit", "Product", new { id = product.Id })" class="btn btn-warning btn-sm">
+                                <i class="fas fa-edit"></i> Edit
+                            </a>
+                             <form asp-action="Delete" asp-route-id="@product.Id" method="post" onsubmit="return confirm('Are you sure you want to delete this product?');">
+                                 <button type="submit" class="btn btn-danger btn-sm">
+                                     <i class="fas fa-trash-alt"></i> Delete
+                                 </button>
+                             </form>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        }
+    </div>
+</div>
+<!-- Products List End -->

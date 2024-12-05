@@ -1,0 +1,23 @@
+﻿@model Willingo.Models.Product
+
+@{
+    ViewData["Title"] = "Delete Product";
+}
+
+<h2 class="text-danger">Delete Product</h2>
+<div class="alert alert-warning" role="alert">
+    Are you sure you want to delete the following product?
+</div>
+
+<div class="mb-3">
+    <h4>@Model.Title</h4>
+    <p><strong>Price:</strong> $@Model.Price</p>
+    <p><strong>Description:</strong> @Model.Description</p>
+    <p><strong>Category:</strong> @Model.Category.Title</p>
+    <img src="@Model.ImagePath" alt="@Model.Title" style="max-height: 200px; object-fit: contain;" />
+</div>
+
+<form asp-action="DeleteConfirmed" asp-route-id="@Model.Id" method="post">
+    <button type="submit" class="btn btn-danger">Yes, Delete</button>
+    <a asp-action="Index" class="btn btn-secondary">Cancel</a>
+</form>

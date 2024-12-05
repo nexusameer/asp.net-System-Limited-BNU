@@ -1,3 +1,219 @@
+F:\Willingo\obj\Debug\net8.0\Willingo.csproj.AssemblyReference.cache
+F:\Willingo\obj\Debug\net8.0\Willingo.GeneratedMSBuildEditorConfig.editorconfig
+F:\Willingo\obj\Debug\net8.0\Willingo.AssemblyInfoInputs.cache
+F:\Willingo\obj\Debug\net8.0\Willingo.AssemblyInfo.cs
+F:\Willingo\obj\Debug\net8.0\Willingo.csproj.CoreCompileInputs.cache
+F:\Willingo\obj\Debug\net8.0\Willingo.MvcApplicationPartsAssemblyInfo.cache
+F:\Willingo\obj\Debug\net8.0\Willingo.RazorAssemblyInfo.cache
+F:\Willingo\obj\Debug\net8.0\Willingo.RazorAssemblyInfo.cs
+F:\Willingo\bin\Debug\net8.0\appsettings.Development.json
+F:\Willingo\bin\Debug\net8.0\appsettings.json
+F:\Willingo\bin\Debug\net8.0\Willingo.staticwebassets.runtime.json
+F:\Willingo\bin\Debug\net8.0\Willingo.staticwebassets.endpoints.json
+F:\Willingo\bin\Debug\net8.0\Willingo.exe
+F:\Willingo\bin\Debug\net8.0\Willingo.deps.json
+F:\Willingo\bin\Debug\net8.0\Willingo.runtimeconfig.json
+F:\Willingo\bin\Debug\net8.0\Willingo.dll
+F:\Willingo\bin\Debug\net8.0\Willingo.pdb
+F:\Willingo\bin\Debug\net8.0\Humanizer.dll
+F:\Willingo\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+F:\Willingo\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+F:\Willingo\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+F:\Willingo\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+F:\Willingo\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+F:\Willingo\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+F:\Willingo\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\Willingo\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\Willingo\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\Willingo\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+F:\Willingo\bin\Debug\net8.0\Mono.TextTemplating.dll
+F:\Willingo\bin\Debug\net8.0\MySqlConnector.dll
+F:\Willingo\bin\Debug\net8.0\Pomelo.EntityFrameworkCore.MySql.dll
+F:\Willingo\bin\Debug\net8.0\System.CodeDom.dll
+F:\Willingo\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+F:\Willingo\bin\Debug\net8.0\System.Composition.Convention.dll
+F:\Willingo\bin\Debug\net8.0\System.Composition.Hosting.dll
+F:\Willingo\bin\Debug\net8.0\System.Composition.Runtime.dll
+F:\Willingo\bin\Debug\net8.0\System.Composition.TypedParts.dll
+F:\Willingo\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+F:\Willingo\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+F:\Willingo\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+F:\Willingo\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+F:\Willingo\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+F:\Willingo\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+F:\Willingo\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+F:\Willingo\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+F:\Willingo\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+F:\Willingo\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+F:\Willingo\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+F:\Willingo\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+F:\Willingo\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+F:\Willingo\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Willingo\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Willingo\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Willingo\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Willingo\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Willingo\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Willingo\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Willingo\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Willingo\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Willingo\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Willingo\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Willingo\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Willingo\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Willingo\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Willingo\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Willingo\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Willingo\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Willingo\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Willingo\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Willingo\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Willingo\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Willingo\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Willingo\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Willingo\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Willingo\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Willingo\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Willingo\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Willingo\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Willingo\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Willingo\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Willingo\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Willingo\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Willingo\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Willingo\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Willingo\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Willingo\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Willingo\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Willingo\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Willingo\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Willingo\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+F:\Willingo\obj\Debug\net8.0\scopedcss\bundle\Willingo.styles.css
+F:\Willingo\obj\Debug\net8.0\scopedcss\projectbundle\Willingo.bundle.scp.css
+F:\Willingo\obj\Debug\net8.0\staticwebassets.build.json
+F:\Willingo\obj\Debug\net8.0\staticwebassets.development.json
+F:\Willingo\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+F:\Willingo\obj\Debug\net8.0\staticwebassets\msbuild.Willingo.Microsoft.AspNetCore.StaticWebAssets.props
+F:\Willingo\obj\Debug\net8.0\staticwebassets\msbuild.Willingo.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+F:\Willingo\obj\Debug\net8.0\staticwebassets\msbuild.build.Willingo.props
+F:\Willingo\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Willingo.props
+F:\Willingo\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Willingo.props
+F:\Willingo\obj\Debug\net8.0\staticwebassets.pack.json
+F:\Willingo\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+F:\Willingo\obj\Debug\net8.0\Willingo.csproj.Up2Date
+F:\Willingo\obj\Debug\net8.0\Willingo.dll
+F:\Willingo\obj\Debug\net8.0\refint\Willingo.dll
+F:\Willingo\obj\Debug\net8.0\Willingo.pdb
+F:\Willingo\obj\Debug\net8.0\Willingo.genruntimeconfig.cache
+F:\Willingo\obj\Debug\net8.0\ref\Willingo.dll
+F:\Willingo - Copy\bin\Debug\net8.0\appsettings.Development.json
+F:\Willingo - Copy\bin\Debug\net8.0\appsettings.json
+F:\Willingo - Copy\bin\Debug\net8.0\Willingo.staticwebassets.endpoints.json
+F:\Willingo - Copy\bin\Debug\net8.0\Willingo.staticwebassets.runtime.json
+F:\Willingo - Copy\bin\Debug\net8.0\Willingo.exe
+F:\Willingo - Copy\bin\Debug\net8.0\Willingo.deps.json
+F:\Willingo - Copy\bin\Debug\net8.0\Willingo.runtimeconfig.json
+F:\Willingo - Copy\bin\Debug\net8.0\Willingo.dll
+F:\Willingo - Copy\bin\Debug\net8.0\Willingo.pdb
+F:\Willingo - Copy\bin\Debug\net8.0\Humanizer.dll
+F:\Willingo - Copy\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+F:\Willingo - Copy\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+F:\Willingo - Copy\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+F:\Willingo - Copy\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+F:\Willingo - Copy\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+F:\Willingo - Copy\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+F:\Willingo - Copy\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\Willingo - Copy\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\Willingo - Copy\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\Willingo - Copy\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+F:\Willingo - Copy\bin\Debug\net8.0\Mono.TextTemplating.dll
+F:\Willingo - Copy\bin\Debug\net8.0\MySqlConnector.dll
+F:\Willingo - Copy\bin\Debug\net8.0\Pomelo.EntityFrameworkCore.MySql.dll
+F:\Willingo - Copy\bin\Debug\net8.0\System.CodeDom.dll
+F:\Willingo - Copy\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+F:\Willingo - Copy\bin\Debug\net8.0\System.Composition.Convention.dll
+F:\Willingo - Copy\bin\Debug\net8.0\System.Composition.Hosting.dll
+F:\Willingo - Copy\bin\Debug\net8.0\System.Composition.Runtime.dll
+F:\Willingo - Copy\bin\Debug\net8.0\System.Composition.TypedParts.dll
+F:\Willingo - Copy\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+F:\Willingo - Copy\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+F:\Willingo - Copy\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+F:\Willingo - Copy\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+F:\Willingo - Copy\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+F:\Willingo - Copy\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+F:\Willingo - Copy\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+F:\Willingo - Copy\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+F:\Willingo - Copy\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+F:\Willingo - Copy\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+F:\Willingo - Copy\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+F:\Willingo - Copy\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+F:\Willingo - Copy\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+F:\Willingo - Copy\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Willingo - Copy\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Willingo - Copy\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Willingo - Copy\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Willingo - Copy\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Willingo - Copy\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Willingo - Copy\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Willingo - Copy\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Willingo - Copy\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Willingo - Copy\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Willingo - Copy\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Willingo - Copy\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Willingo - Copy\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Willingo - Copy\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Willingo - Copy\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Willingo - Copy\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Willingo - Copy\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Willingo - Copy\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Willingo - Copy\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Willingo - Copy\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Willingo - Copy\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Willingo - Copy\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Willingo - Copy\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Willingo - Copy\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Willingo - Copy\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Willingo - Copy\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\Willingo - Copy\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Willingo - Copy\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Willingo - Copy\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Willingo - Copy\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Willingo - Copy\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Willingo - Copy\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Willingo - Copy\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Willingo - Copy\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Willingo - Copy\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Willingo - Copy\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Willingo - Copy\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Willingo - Copy\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Willingo - Copy\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\Willingo - Copy\obj\Debug\net8.0\Willingo.csproj.AssemblyReference.cache
+F:\Willingo - Copy\obj\Debug\net8.0\Willingo.GeneratedMSBuildEditorConfig.editorconfig
+F:\Willingo - Copy\obj\Debug\net8.0\Willingo.AssemblyInfoInputs.cache
+F:\Willingo - Copy\obj\Debug\net8.0\Willingo.AssemblyInfo.cs
+F:\Willingo - Copy\obj\Debug\net8.0\Willingo.csproj.CoreCompileInputs.cache
+F:\Willingo - Copy\obj\Debug\net8.0\Willingo.MvcApplicationPartsAssemblyInfo.cache
+F:\Willingo - Copy\obj\Debug\net8.0\Willingo.RazorAssemblyInfo.cache
+F:\Willingo - Copy\obj\Debug\net8.0\Willingo.RazorAssemblyInfo.cs
+F:\Willingo - Copy\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+F:\Willingo - Copy\obj\Debug\net8.0\scopedcss\bundle\Willingo.styles.css
+F:\Willingo - Copy\obj\Debug\net8.0\scopedcss\projectbundle\Willingo.bundle.scp.css
+F:\Willingo - Copy\obj\Debug\net8.0\staticwebassets.build.json
+F:\Willingo - Copy\obj\Debug\net8.0\staticwebassets.development.json
+F:\Willingo - Copy\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+F:\Willingo - Copy\obj\Debug\net8.0\staticwebassets\msbuild.Willingo.Microsoft.AspNetCore.StaticWebAssets.props
+F:\Willingo - Copy\obj\Debug\net8.0\staticwebassets\msbuild.Willingo.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+F:\Willingo - Copy\obj\Debug\net8.0\staticwebassets\msbuild.build.Willingo.props
+F:\Willingo - Copy\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Willingo.props
+F:\Willingo - Copy\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Willingo.props
+F:\Willingo - Copy\obj\Debug\net8.0\staticwebassets.pack.json
+F:\Willingo - Copy\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+F:\Willingo - Copy\obj\Debug\net8.0\Willingo.csproj.Up2Date
+F:\Willingo - Copy\obj\Debug\net8.0\Willingo.dll
+F:\Willingo - Copy\obj\Debug\net8.0\refint\Willingo.dll
+F:\Willingo - Copy\obj\Debug\net8.0\Willingo.pdb
+F:\Willingo - Copy\obj\Debug\net8.0\Willingo.genruntimeconfig.cache
+F:\Willingo - Copy\obj\Debug\net8.0\ref\Willingo.dll
 F:\Projects\ASP.NET\Willingo\bin\Debug\net8.0\appsettings.Development.json
 F:\Projects\ASP.NET\Willingo\bin\Debug\net8.0\appsettings.json
 F:\Projects\ASP.NET\Willingo\bin\Debug\net8.0\Willingo.staticwebassets.runtime.json
