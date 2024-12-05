@@ -1,0 +1,121 @@
+﻿using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore;
+using Willingo.Models;
+using System.IO;
+using System.Threading.Tasks;
+using Microsoft.AspNetCore.Hosting;
+using System.Linq;
+using Willingo.Services;
+
+namespace Willingo.Controllers
+{
+    public class ProductController : Controller
+    {
+        private readonly ApplicationDbContext _context;
+        private readonly IWebHostEnvironment _env;
+
+        public ProductController(ApplicationDbContext context, IWebHostEnvironment env)
+        {
+            _context = context;
+            _env = env;
+        }
+
+        // GET: Product/Create
+        public async Task<IActionResult> Create()
+        {
+            // Load categories with error handling
+            try
+            {
+                ViewBag.Categories = await _context.Categories.ToListAsync();
+            }
+            catch (Exception ex)
+            {
+                // Log the exception
+                ModelState.AddModelError("", "Error loading categories: " + ex.Message);
+            }
+            return View();
+        }
+
+        // POST: Product/Create
+        [HttpPost]
+        [ValidateAntiForgeryToken]
+        public async Task<IActionResult> Create(Product product, IFormFile? ImageFile)
+        {
+            // Debug: Print out all model state errors
+            if (!ModelState.IsValid)
+            {
+                var errors = ModelState.Values
+                    .SelectMany(v => v.Errors)
+                    .Select(e => e.ErrorMessage)
+                    .ToList();
+
+                // Log errors to console
+                foreach (var error in errors)
+                {
+                    Console.WriteLine($"Validation Error: {error}");
+                }
+            }
+
+            // Explicitly validate required fields
+            if (string.IsNullOrWhiteSpace(product.Title))
+            {
+                ModelState.AddModelError("Title", "Title is required");
+            }
+
+            if (product.Price <= 0)
+            {
+                ModelState.AddModelError("Price", "Price must be greater than zero");
+            }
+
+            if (product.CategoryId <= 0)
+            {
+                ModelState.AddModelError("CategoryId", "Please select a category");
+            }
+
+            // If model state is still invalid, return to view
+            if (!ModelState.IsValid)
+            {
+                // Reload categories
+                ViewBag.Categories = await _context.Categories.ToListAsync();
+                return View(product);
+            }
+
+            try
+            {
+                // Handle image upload (optional)
+                if (ImageFile != null && ImageFile.Length > 0)
+                {
+                    string uniqueFileName = Guid.NewGuid().ToString() + "_" + ImageFile.FileName;
+                    string uploadsFolder = Path.Combine(_env.WebRootPath, "uploads", "products");
+
+                    Directory.CreateDirectory(uploadsFolder);
+
+                    string filePath = Path.Combine(uploadsFolder, uniqueFileName);
+
+                    using (var fileStream = new FileStream(filePath, FileMode.Create))
+                    {
+                        await ImageFile.CopyToAsync(fileStream);
+                    }
+
+                    product.ImagePath = Path.Combine("uploads", "products", uniqueFileName);
+                }
+
+                // Add product to database
+                _context.Products.Add(product);
+                await _context.SaveChangesAsync();
+
+                // Redirect to index page
+                return RedirectToAction(nameof(Index));
+            }
+            catch (Exception ex)
+            {
+                // Log the exception
+                ModelState.AddModelError("", "Error creating product: " + ex.Message);
+
+                // Reload categories
+                ViewBag.Categories = await _context.Categories.ToListAsync();
+                return View(product);
+            }
+        }
+    }
+}

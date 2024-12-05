@@ -1,0 +1,21 @@
+﻿@model Willingo.Models.Category
+
+@{
+    ViewData["Title"] = "Delete Category";
+}
+
+<h2 class="text-danger">Delete Category</h2>
+<div class="alert alert-warning" role="alert">
+    Are you sure you want to delete the following category?
+</div>
+
+<div class="mb-3">
+    <h4>@Model.Title</h4>
+    <p><strong>Associated Products:</strong> @Model.Products?.Count() ?? 0</p>
+    <img src="@Model.ImagePath" alt="@Model.Title" style="max-height: 200px; object-fit: contain;" />
+</div>
+
+<form asp-action="DeleteConfirmed" asp-route-id="@Model.Id" method="post">
+    <button type="submit" class="btn btn-danger">Yes, Delete</button>
+    <a asp-action="Index" class="btn btn-secondary">Cancel</a>
+</form>
