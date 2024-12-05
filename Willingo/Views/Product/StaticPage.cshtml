@@ -1,0 +1,64 @@
+﻿@model IEnumerable<Willingo.Models.Product>
+
+@{
+    ViewData["Title"] = "Products";
+}
+    <div class="container-fluid bg-light py-5">
+        <div class="container">
+            <div class="row align-items-center">
+                <div class="col-lg-6">
+                <img src="https://d1u4v6449fgzem.cloudfront.net/2020/03/The-Ecommerce-Business-Model-Explained.jpg" alt="About Us" class="img-fluid rounded">
+                </div>
+                <div class="col-lg-6">
+                    <h1 class="text-uppercase text-primary mb-4">About MultiShop</h1>
+                    <p class="mb-4">At MultiShop, we aim to redefine your shopping experience by offering a wide range of high-quality products at unbeatable prices. From trendy clothing to practical essentials, we cater to all your needs.</p>
+                    <p class="mb-4">Founded with a mission to make shopping easy and accessible, MultiShop has quickly grown to become a trusted name for customers worldwide. Our user-centric approach ensures that your satisfaction is our top priority.</p>
+                    <a href="@Url.Action("Contact", "Home")" class="btn btn-primary px-4">Contact Us</a>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- About Section End -->
+    <!-- Our Mission and Vision Start -->
+    <div class="container py-5">
+        <div class="text-center mb-5">
+            <h2 class="text-uppercase text-primary">Our Mission & Vision</h2>
+        </div>
+        <div class="row">
+            <div class="col-md-6">
+                <div class="bg-light p-4 rounded h-100">
+                    <h4 class="text-primary">Our Mission</h4>
+                    <p>To provide our customers with the best online shopping experience, combining convenience, quality, and affordability.</p>
+                </div>
+            </div>
+            <div class="col-md-6">
+                <div class="bg-light p-4 rounded h-100">
+                    <h4 class="text-primary">Our Vision</h4>
+                    <p>To become the leading online retailer globally, known for our exceptional customer service and innovative solutions.</p>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- Our Mission and Vision End -->
+    <!-- Team Section Start -->
+    <div class="container-fluid bg-dark text-secondary py-5">
+        <div class="container">
+            <div class="text-center mb-5">
+                <h2 class="text-uppercase text-light">Meet Our Team</h2>
+                <p class="text-secondary">The people behind MultiShop’s success</p>
+            </div>
+            <div class="row">
+                <div class="col-md-6 text-center">
+                    <img src="~/img/team1.jpg" class="rounded-circle mb-3" alt="Team Member" style="width: 150px; height: 150px;">
+                    <h5 class="text-light">Muhammad Ameer Hamza</h5>
+                    <p class="text-secondary">SUM24-0028</p>
+                </div>
+                <div class="col-md-6 text-center">
+                    <img src="~/img/team2.jpg" class="rounded-circle mb-3" alt="Team Member" style="width: 150px; height: 150px;">
+                    <h5 class="text-light">Aun Muhammad</h5>
+                    <p class="text-secondary">SUM24-0047</p>
+                </div>
+            </div>
+        </div>
+    </div>
+

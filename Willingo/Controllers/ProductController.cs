@@ -216,7 +216,10 @@ namespace Willingo.Controllers
 
             return RedirectToAction(nameof(Index)); // Redirect to product list
         }
-
+        public IActionResult About()
+        {
+            return View("StaticPage");
+        }
 
     }
 }

@@ -133,7 +133,84 @@ namespace Willingo.Controllers
                 ModelState.AddModelError("", "An error occurred while creating the category. Please try again.");
                 return View(category);
             }
+
+
         }
+        // GET: Category/Edit/5
+        public async Task<IActionResult> Edit(int? id)
+        {
+            if (id == null)
+            {
+                return NotFound();
+            }
+
+            var category = await _context.Categories.FindAsync(id);
+            if (category == null)
+            {
+                return NotFound();
+            }
+
+            return View(category);
+        }
+
+        // POST: Category/Edit/5
+        [HttpPost]
+        [ValidateAntiForgeryToken]
+        public async Task<IActionResult> Edit(int id, Category category, IFormFile? ImageFile)
+        {
+            if (id != category.Id)
+            {
+                return NotFound();
+            }
+
+            if (!ModelState.IsValid)
+            {
+                return View(category);
+            }
+
+            try
+            {
+                // If a new image is uploaded, handle the file
+                if (ImageFile != null && ImageFile.Length > 0)
+                {
+                    // Delete the old image if it exists
+                    if (!string.IsNullOrEmpty(category.ImagePath))
+                    {
+                        string oldFilePath = Path.Combine(_env.WebRootPath, category.ImagePath);
+                        if (System.IO.File.Exists(oldFilePath))
+                        {
+                            System.IO.File.Delete(oldFilePath);
+                        }
+                    }
+
+                    // Save the new image
+                    string uploadsFolder = Path.Combine(_env.WebRootPath, "uploads", "categories");
+                    Directory.CreateDirectory(uploadsFolder); // Ensure the folder exists
+
+                    string uniqueFileName = Guid.NewGuid().ToString() + "_" + Path.GetFileName(ImageFile.FileName);
+                    string filePath = Path.Combine(uploadsFolder, uniqueFileName);
+
+                    using (var fileStream = new FileStream(filePath, FileMode.Create))
+                    {
+                        await ImageFile.CopyToAsync(fileStream);
+                    }
+
+                    category.ImagePath = Path.Combine("uploads", "categories", uniqueFileName);
+                }
+
+                // Update the category in the database
+                _context.Update(category);
+                await _context.SaveChangesAsync();
+
+                return RedirectToAction(nameof(Index));
+            }
+            catch (Exception ex)
+            {
+                ModelState.AddModelError("", "An error occurred while updating the category. Please try again. " + ex.Message);
+                return View(category);
+            }
+        }
+
 
     }
 }
