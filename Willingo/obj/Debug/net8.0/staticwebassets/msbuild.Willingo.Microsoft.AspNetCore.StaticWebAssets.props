@@ -4950,6 +4950,42 @@
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\categories\e1541546-4e2f-4799-b141-f864a2947923_carousel-1.jpg'))</OriginalItemSpec>
     </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\products\021cd114-2988-435a-96dd-5487549952b7_product-6.jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>Willingo</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/Willingo</BasePath>
+      <RelativePath>uploads/products/021cd114-2988-435a-96dd-5487549952b7_product-6.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>m3oyc9upzt</Fingerprint>
+      <Integrity>fuF0Jupye3zZGK5DvTdZVhO03eIrVnl1V5XjIUhGylU=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\products\021cd114-2988-435a-96dd-5487549952b7_product-6.jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\products\0b5fa470-7e5b-45ab-a586-f03ab44353c5_cat-2.jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>Willingo</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/Willingo</BasePath>
+      <RelativePath>uploads/products/0b5fa470-7e5b-45ab-a586-f03ab44353c5_cat-2.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>zxdvmtcgzw</Fingerprint>
+      <Integrity>qX21fQv9XOOX1IeeLdfdtrF1Kavc5jI0wSHC/heyrIo=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\products\0b5fa470-7e5b-45ab-a586-f03ab44353c5_cat-2.jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\products\20d8efe9-3cab-4509-b86b-65e35e3f875b_7.png'))">
       <SourceType>Package</SourceType>
       <SourceId>Willingo</SourceId>
@@ -4986,6 +5022,42 @@
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\products\2201fc53-9200-4567-9aad-f330b325a01d_vivo.jpeg'))</OriginalItemSpec>
     </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\products\2396c277-b514-41af-b1f4-903306963988_images.jpeg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>Willingo</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/Willingo</BasePath>
+      <RelativePath>uploads/products/2396c277-b514-41af-b1f4-903306963988_images.jpeg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>m177f3qb1l</Fingerprint>
+      <Integrity>liUxpy8/g2HbYPeHjrxfPhHuaScoHtaSJuKlyYVBBhk=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\products\2396c277-b514-41af-b1f4-903306963988_images.jpeg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\products\244fdc9f-cbea-4452-a78d-e368baf2ea78_cat-3.jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>Willingo</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/Willingo</BasePath>
+      <RelativePath>uploads/products/244fdc9f-cbea-4452-a78d-e368baf2ea78_cat-3.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>4l28pb65dq</Fingerprint>
+      <Integrity>6NttC45ojSPbiOD67a9N9m39bB/ceyPpfUG3hEjXdqM=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\products\244fdc9f-cbea-4452-a78d-e368baf2ea78_cat-3.jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\products\245815d0-e2c9-472c-8deb-a643823b01c7_20241130072808242.png'))">
       <SourceType>Package</SourceType>
       <SourceId>Willingo</SourceId>
@@ -5004,6 +5076,60 @@
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\products\245815d0-e2c9-472c-8deb-a643823b01c7_20241130072808242.png'))</OriginalItemSpec>
     </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\products\25016e47-3a08-4714-8508-f79318bd04ba_infinix2_Mn0WJ4U.jpeg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>Willingo</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/Willingo</BasePath>
+      <RelativePath>uploads/products/25016e47-3a08-4714-8508-f79318bd04ba_infinix2_Mn0WJ4U.jpeg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>3z7if80mjq</Fingerprint>
+      <Integrity>IfioMEOcErXb7VZiqH0u1bo0NSQeoMiVpl3Es3VATrw=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\products\25016e47-3a08-4714-8508-f79318bd04ba_infinix2_Mn0WJ4U.jpeg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\products\2beed4d2-7a99-403a-bac6-c98837cb2eb5_hp.jpeg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>Willingo</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/Willingo</BasePath>
+      <RelativePath>uploads/products/2beed4d2-7a99-403a-bac6-c98837cb2eb5_hp.jpeg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>f4o6mpga8m</Fingerprint>
+      <Integrity>Yeatb2UIHmSxoYPpwu8+gf1b4+USFV9Fszxnf3z8AH8=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\products\2beed4d2-7a99-403a-bac6-c98837cb2eb5_hp.jpeg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\products\2d2f0698-169c-43c1-b35e-b762a2a46134_product-4.jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>Willingo</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/Willingo</BasePath>
+      <RelativePath>uploads/products/2d2f0698-169c-43c1-b35e-b762a2a46134_product-4.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>1v4z7np1nz</Fingerprint>
+      <Integrity>XfZKVNGjHOQQdDb+Cshf0p98EGtU2r21xMGbxr83PoY=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\products\2d2f0698-169c-43c1-b35e-b762a2a46134_product-4.jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\products\35ff6696-245e-48bb-b60f-2a84d8968afc_one2.jpeg'))">
       <SourceType>Package</SourceType>
       <SourceId>Willingo</SourceId>
@@ -5021,6 +5147,24 @@
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\products\35ff6696-245e-48bb-b60f-2a84d8968afc_one2.jpeg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\products\531b23c1-897f-4fba-9582-e7db849f3ee1_carousel-2.jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>Willingo</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/Willingo</BasePath>
+      <RelativePath>uploads/products/531b23c1-897f-4fba-9582-e7db849f3ee1_carousel-2.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>bttze27qy2</Fingerprint>
+      <Integrity>UXjEd9CoZS3s4zcRctSwkkiDhaiceO3i0Bjf9VLts4c=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\products\531b23c1-897f-4fba-9582-e7db849f3ee1_carousel-2.jpg'))</OriginalItemSpec>
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\products\66a958f2-930a-4b1e-b83e-9e69ff3d5933_20241130072822213.png'))">
       <SourceType>Package</SourceType>
@@ -5076,6 +5220,24 @@
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\products\73a6e3ba-1200-423d-87df-0cf92ba9b3fe_ttower.jpeg'))</OriginalItemSpec>
     </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\products\7bb1cff8-e255-4bf3-8f54-075abdad22d2_google_pixel.jpeg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>Willingo</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/Willingo</BasePath>
+      <RelativePath>uploads/products/7bb1cff8-e255-4bf3-8f54-075abdad22d2_google_pixel.jpeg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>fuklqmxgbd</Fingerprint>
+      <Integrity>OSFor+3Iomaw7moJzNvDmNaDj+/9PVFLF2lYdMCnfLw=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\products\7bb1cff8-e255-4bf3-8f54-075abdad22d2_google_pixel.jpeg'))</OriginalItemSpec>
+    </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\products\7bf057f0-2089-4f0a-bbf4-06ec1bd3f380_oppo.jpeg'))">
       <SourceType>Package</SourceType>
       <SourceId>Willingo</SourceId>
@@ -5093,6 +5255,150 @@
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\products\7bf057f0-2089-4f0a-bbf4-06ec1bd3f380_oppo.jpeg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\products\88d3729e-de66-43e5-b75d-9a018b13d861_product-7.jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>Willingo</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/Willingo</BasePath>
+      <RelativePath>uploads/products/88d3729e-de66-43e5-b75d-9a018b13d861_product-7.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>pnzprs0l6m</Fingerprint>
+      <Integrity>O1S2lW/OFdbSooxU755iVjK7laFRJn3DiAuSG0FzVnE=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\products\88d3729e-de66-43e5-b75d-9a018b13d861_product-7.jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\products\9f844d6b-0a73-4013-8354-24ed2a152932_images_7.jpeg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>Willingo</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/Willingo</BasePath>
+      <RelativePath>uploads/products/9f844d6b-0a73-4013-8354-24ed2a152932_images_7.jpeg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>q8k0s6ywbr</Fingerprint>
+      <Integrity>evqsdtlXmVttFEULPaF6j6fEVcomn2j13tNEzvdfjVI=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\products\9f844d6b-0a73-4013-8354-24ed2a152932_images_7.jpeg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\products\a78ac61c-6dbb-4816-980d-1fa68765f648_product-2.jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>Willingo</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/Willingo</BasePath>
+      <RelativePath>uploads/products/a78ac61c-6dbb-4816-980d-1fa68765f648_product-2.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>tdxkj6gc9h</Fingerprint>
+      <Integrity>AbHO/9SlMfdwradtEe81zLDTtcSts/JKPQSsJYqoRWo=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\products\a78ac61c-6dbb-4816-980d-1fa68765f648_product-2.jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\products\a9d5fd7e-cc7f-4e28-af61-b8e634aa20df_infiinix_DioW9w4.jpeg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>Willingo</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/Willingo</BasePath>
+      <RelativePath>uploads/products/a9d5fd7e-cc7f-4e28-af61-b8e634aa20df_infiinix_DioW9w4.jpeg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>gkt1x76824</Fingerprint>
+      <Integrity>8Oj3dBFcv9kRPHNRRAFliejlkBbozUqqHvL2n/Tz1G8=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\products\a9d5fd7e-cc7f-4e28-af61-b8e634aa20df_infiinix_DioW9w4.jpeg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\products\b3c78f07-a7a3-4bd6-8139-e1c06f86ce75_product-6.jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>Willingo</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/Willingo</BasePath>
+      <RelativePath>uploads/products/b3c78f07-a7a3-4bd6-8139-e1c06f86ce75_product-6.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>m3oyc9upzt</Fingerprint>
+      <Integrity>fuF0Jupye3zZGK5DvTdZVhO03eIrVnl1V5XjIUhGylU=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\products\b3c78f07-a7a3-4bd6-8139-e1c06f86ce75_product-6.jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\products\bbe8a6de-02a6-4f79-9a7e-219bde643f90_product-9.jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>Willingo</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/Willingo</BasePath>
+      <RelativePath>uploads/products/bbe8a6de-02a6-4f79-9a7e-219bde643f90_product-9.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>pqawbw9j30</Fingerprint>
+      <Integrity>n0YRp9TqqKqlD/QKb8MLhj53BzMsyXxZTuDk0aVPJQY=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\products\bbe8a6de-02a6-4f79-9a7e-219bde643f90_product-9.jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\products\c5d23cbd-9cc3-45d7-9dbc-16a54c85fcb5_images_4_7e0nfZY.jpeg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>Willingo</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/Willingo</BasePath>
+      <RelativePath>uploads/products/c5d23cbd-9cc3-45d7-9dbc-16a54c85fcb5_images_4_7e0nfZY.jpeg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>lsjil2rulu</Fingerprint>
+      <Integrity>Sx6kqkQdRez/6Kg3IbUu8v0xclyuDAPfmBIAAL+9FC4=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\products\c5d23cbd-9cc3-45d7-9dbc-16a54c85fcb5_images_4_7e0nfZY.jpeg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\products\c91e8a90-db56-4310-b7ac-c09b6fd3f86a_images_1_Y9FnWnH.jpeg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>Willingo</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/Willingo</BasePath>
+      <RelativePath>uploads/products/c91e8a90-db56-4310-b7ac-c09b6fd3f86a_images_1_Y9FnWnH.jpeg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>xq8hnkdp6r</Fingerprint>
+      <Integrity>iZ3YbrGSqLtGvHpC8q+dTQvI1wQx6JaCF6BHZhcZrFE=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\products\c91e8a90-db56-4310-b7ac-c09b6fd3f86a_images_1_Y9FnWnH.jpeg'))</OriginalItemSpec>
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\products\c95047e9-a720-431a-8609-0461a58208e3_1.png'))">
       <SourceType>Package</SourceType>
@@ -5112,6 +5418,42 @@
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\products\c95047e9-a720-431a-8609-0461a58208e3_1.png'))</OriginalItemSpec>
     </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\products\d1e534b5-b05a-4339-a13d-b4200ed3bdef_hp_V6mw27d.jpeg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>Willingo</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/Willingo</BasePath>
+      <RelativePath>uploads/products/d1e534b5-b05a-4339-a13d-b4200ed3bdef_hp_V6mw27d.jpeg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>crbdhtv5xd</Fingerprint>
+      <Integrity>yPFwJ3dcQS0ggZwxHzNl7M3PNJHH2iM6TsrBFfxEWL0=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\products\d1e534b5-b05a-4339-a13d-b4200ed3bdef_hp_V6mw27d.jpeg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\products\d363e184-2d45-424a-b0ab-aa7518566d5a_carousel-3.jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>Willingo</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/Willingo</BasePath>
+      <RelativePath>uploads/products/d363e184-2d45-424a-b0ab-aa7518566d5a_carousel-3.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>x3rgn4fydm</Fingerprint>
+      <Integrity>PWQvTPrQDuR712eC1kVBwtKBvZ9nJeSBegVS+LGHR6g=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\products\d363e184-2d45-424a-b0ab-aa7518566d5a_carousel-3.jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\products\e00bc150-8129-432d-888a-e4d95673ee13_20241130072742976.png'))">
       <SourceType>Package</SourceType>
       <SourceId>Willingo</SourceId>
@@ -5130,6 +5472,24 @@
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\products\e00bc150-8129-432d-888a-e4d95673ee13_20241130072742976.png'))</OriginalItemSpec>
     </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\products\e11ed534-d171-46a8-bbc8-79d10088d244_images_3_Vr6tINu.jpeg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>Willingo</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/Willingo</BasePath>
+      <RelativePath>uploads/products/e11ed534-d171-46a8-bbc8-79d10088d244_images_3_Vr6tINu.jpeg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>zcnd6zde2h</Fingerprint>
+      <Integrity>fcZWOvOSNV/k4bML5MQQ3gYoGICjIAoI+RxABRdBGRE=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\products\e11ed534-d171-46a8-bbc8-79d10088d244_images_3_Vr6tINu.jpeg'))</OriginalItemSpec>
+    </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\products\e737dd38-af6d-4f93-9f35-e10272a8a921_tower_1.jpeg'))">
       <SourceType>Package</SourceType>
       <SourceId>Willingo</SourceId>
@@ -5147,6 +5507,42 @@
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\products\e737dd38-af6d-4f93-9f35-e10272a8a921_tower_1.jpeg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\products\ebc70868-266a-45d5-9ef2-43f08bde35a8_product-5.jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>Willingo</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/Willingo</BasePath>
+      <RelativePath>uploads/products/ebc70868-266a-45d5-9ef2-43f08bde35a8_product-5.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>0k8nd7j3o5</Fingerprint>
+      <Integrity>ECTtuVii7+lMDf0GhKYjll1aWQg3S1eJi9jbVS1kQ2s=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\products\ebc70868-266a-45d5-9ef2-43f08bde35a8_product-5.jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\products\ec50bbc0-5307-434f-8b56-8623b458a910_deskkktoop.jpeg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>Willingo</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/Willingo</BasePath>
+      <RelativePath>uploads/products/ec50bbc0-5307-434f-8b56-8623b458a910_deskkktoop.jpeg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>upsj1icnid</Fingerprint>
+      <Integrity>IsEZ6kjAV3VCkgYLyB6TEKxITOPhcTULb1bUl1HQHOw=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\products\ec50bbc0-5307-434f-8b56-8623b458a910_deskkktoop.jpeg'))</OriginalItemSpec>
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\products\ef4435fa-33ff-4c9c-9d3f-6eccc7947041_20241126150648533.png'))">
       <SourceType>Package</SourceType>

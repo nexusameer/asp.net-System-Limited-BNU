@@ -22,7 +22,9 @@
                     <div class="card-body">
                         <h5 class="card-title">@product.Title</h5>
                         <p class="card-text">
-                            <strong>Price:</strong> @product.Price <br />
+                              
+                            <strong>Price:</strong> @product.Price.ToString("F2") <br />
+
                             <strong>Description:</strong> @product.Description <br />
                             <strong>Category:</strong> @product.Category.Title
                         </p>

@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "XZzx/yY48mfbuBfWFg3UxMGZg58XVerZy9bKRdlTbcI=",
+  "Hash": "Z7mJh9NaipUoECQ6pXSq7cxevFIaUFaaciMT0RbY1i8=",
   "Source": "Willingo",
   "BasePath": "_content/Willingo",
   "Mode": "Default",
@@ -5834,6 +5834,48 @@
       "OriginalItemSpec": "wwwroot\\uploads\\categories\\e1541546-4e2f-4799-b141-f864a2947923_carousel-1.jpg"
     },
     {
+      "Identity": "F:\\Projects\\ASP.NET\\Willingo\\wwwroot\\uploads\\products\\021cd114-2988-435a-96dd-5487549952b7_product-6.jpg",
+      "SourceId": "Willingo",
+      "SourceType": "Discovered",
+      "ContentRoot": "F:\\Projects\\ASP.NET\\Willingo\\wwwroot\\",
+      "BasePath": "_content/Willingo",
+      "RelativePath": "uploads/products/021cd114-2988-435a-96dd-5487549952b7_product-6#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "m3oyc9upzt",
+      "Integrity": "fuF0Jupye3zZGK5DvTdZVhO03eIrVnl1V5XjIUhGylU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\products\\021cd114-2988-435a-96dd-5487549952b7_product-6.jpg"
+    },
+    {
+      "Identity": "F:\\Projects\\ASP.NET\\Willingo\\wwwroot\\uploads\\products\\0b5fa470-7e5b-45ab-a586-f03ab44353c5_cat-2.jpg",
+      "SourceId": "Willingo",
+      "SourceType": "Discovered",
+      "ContentRoot": "F:\\Projects\\ASP.NET\\Willingo\\wwwroot\\",
+      "BasePath": "_content/Willingo",
+      "RelativePath": "uploads/products/0b5fa470-7e5b-45ab-a586-f03ab44353c5_cat-2#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "zxdvmtcgzw",
+      "Integrity": "qX21fQv9XOOX1IeeLdfdtrF1Kavc5jI0wSHC/heyrIo=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\products\\0b5fa470-7e5b-45ab-a586-f03ab44353c5_cat-2.jpg"
+    },
+    {
       "Identity": "F:\\Projects\\ASP.NET\\Willingo\\wwwroot\\uploads\\products\\20d8efe9-3cab-4509-b86b-65e35e3f875b_7.png",
       "SourceId": "Willingo",
       "SourceType": "Discovered",
@@ -5876,6 +5918,48 @@
       "OriginalItemSpec": "wwwroot\\uploads\\products\\2201fc53-9200-4567-9aad-f330b325a01d_vivo.jpeg"
     },
     {
+      "Identity": "F:\\Projects\\ASP.NET\\Willingo\\wwwroot\\uploads\\products\\2396c277-b514-41af-b1f4-903306963988_images.jpeg",
+      "SourceId": "Willingo",
+      "SourceType": "Discovered",
+      "ContentRoot": "F:\\Projects\\ASP.NET\\Willingo\\wwwroot\\",
+      "BasePath": "_content/Willingo",
+      "RelativePath": "uploads/products/2396c277-b514-41af-b1f4-903306963988_images#[.{fingerprint}]?.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "m177f3qb1l",
+      "Integrity": "liUxpy8/g2HbYPeHjrxfPhHuaScoHtaSJuKlyYVBBhk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\products\\2396c277-b514-41af-b1f4-903306963988_images.jpeg"
+    },
+    {
+      "Identity": "F:\\Projects\\ASP.NET\\Willingo\\wwwroot\\uploads\\products\\244fdc9f-cbea-4452-a78d-e368baf2ea78_cat-3.jpg",
+      "SourceId": "Willingo",
+      "SourceType": "Discovered",
+      "ContentRoot": "F:\\Projects\\ASP.NET\\Willingo\\wwwroot\\",
+      "BasePath": "_content/Willingo",
+      "RelativePath": "uploads/products/244fdc9f-cbea-4452-a78d-e368baf2ea78_cat-3#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "4l28pb65dq",
+      "Integrity": "6NttC45ojSPbiOD67a9N9m39bB/ceyPpfUG3hEjXdqM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\products\\244fdc9f-cbea-4452-a78d-e368baf2ea78_cat-3.jpg"
+    },
+    {
       "Identity": "F:\\Projects\\ASP.NET\\Willingo\\wwwroot\\uploads\\products\\245815d0-e2c9-472c-8deb-a643823b01c7_20241130072808242.png",
       "SourceId": "Willingo",
       "SourceType": "Discovered",
@@ -5897,6 +5981,69 @@
       "OriginalItemSpec": "wwwroot\\uploads\\products\\245815d0-e2c9-472c-8deb-a643823b01c7_20241130072808242.png"
     },
     {
+      "Identity": "F:\\Projects\\ASP.NET\\Willingo\\wwwroot\\uploads\\products\\25016e47-3a08-4714-8508-f79318bd04ba_infinix2_Mn0WJ4U.jpeg",
+      "SourceId": "Willingo",
+      "SourceType": "Discovered",
+      "ContentRoot": "F:\\Projects\\ASP.NET\\Willingo\\wwwroot\\",
+      "BasePath": "_content/Willingo",
+      "RelativePath": "uploads/products/25016e47-3a08-4714-8508-f79318bd04ba_infinix2_Mn0WJ4U#[.{fingerprint}]?.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "3z7if80mjq",
+      "Integrity": "IfioMEOcErXb7VZiqH0u1bo0NSQeoMiVpl3Es3VATrw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\products\\25016e47-3a08-4714-8508-f79318bd04ba_infinix2_Mn0WJ4U.jpeg"
+    },
+    {
+      "Identity": "F:\\Projects\\ASP.NET\\Willingo\\wwwroot\\uploads\\products\\2beed4d2-7a99-403a-bac6-c98837cb2eb5_hp.jpeg",
+      "SourceId": "Willingo",
+      "SourceType": "Discovered",
+      "ContentRoot": "F:\\Projects\\ASP.NET\\Willingo\\wwwroot\\",
+      "BasePath": "_content/Willingo",
+      "RelativePath": "uploads/products/2beed4d2-7a99-403a-bac6-c98837cb2eb5_hp#[.{fingerprint}]?.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "f4o6mpga8m",
+      "Integrity": "Yeatb2UIHmSxoYPpwu8+gf1b4+USFV9Fszxnf3z8AH8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\products\\2beed4d2-7a99-403a-bac6-c98837cb2eb5_hp.jpeg"
+    },
+    {
+      "Identity": "F:\\Projects\\ASP.NET\\Willingo\\wwwroot\\uploads\\products\\2d2f0698-169c-43c1-b35e-b762a2a46134_product-4.jpg",
+      "SourceId": "Willingo",
+      "SourceType": "Discovered",
+      "ContentRoot": "F:\\Projects\\ASP.NET\\Willingo\\wwwroot\\",
+      "BasePath": "_content/Willingo",
+      "RelativePath": "uploads/products/2d2f0698-169c-43c1-b35e-b762a2a46134_product-4#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "1v4z7np1nz",
+      "Integrity": "XfZKVNGjHOQQdDb+Cshf0p98EGtU2r21xMGbxr83PoY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\products\\2d2f0698-169c-43c1-b35e-b762a2a46134_product-4.jpg"
+    },
+    {
       "Identity": "F:\\Projects\\ASP.NET\\Willingo\\wwwroot\\uploads\\products\\35ff6696-245e-48bb-b60f-2a84d8968afc_one2.jpeg",
       "SourceId": "Willingo",
       "SourceType": "Discovered",
@@ -5916,6 +6063,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\uploads\\products\\35ff6696-245e-48bb-b60f-2a84d8968afc_one2.jpeg"
+    },
+    {
+      "Identity": "F:\\Projects\\ASP.NET\\Willingo\\wwwroot\\uploads\\products\\531b23c1-897f-4fba-9582-e7db849f3ee1_carousel-2.jpg",
+      "SourceId": "Willingo",
+      "SourceType": "Discovered",
+      "ContentRoot": "F:\\Projects\\ASP.NET\\Willingo\\wwwroot\\",
+      "BasePath": "_content/Willingo",
+      "RelativePath": "uploads/products/531b23c1-897f-4fba-9582-e7db849f3ee1_carousel-2#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "bttze27qy2",
+      "Integrity": "UXjEd9CoZS3s4zcRctSwkkiDhaiceO3i0Bjf9VLts4c=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\products\\531b23c1-897f-4fba-9582-e7db849f3ee1_carousel-2.jpg"
     },
     {
       "Identity": "F:\\Projects\\ASP.NET\\Willingo\\wwwroot\\uploads\\products\\66a958f2-930a-4b1e-b83e-9e69ff3d5933_20241130072822213.png",
@@ -5981,6 +6149,27 @@
       "OriginalItemSpec": "wwwroot\\uploads\\products\\73a6e3ba-1200-423d-87df-0cf92ba9b3fe_ttower.jpeg"
     },
     {
+      "Identity": "F:\\Projects\\ASP.NET\\Willingo\\wwwroot\\uploads\\products\\7bb1cff8-e255-4bf3-8f54-075abdad22d2_google_pixel.jpeg",
+      "SourceId": "Willingo",
+      "SourceType": "Discovered",
+      "ContentRoot": "F:\\Projects\\ASP.NET\\Willingo\\wwwroot\\",
+      "BasePath": "_content/Willingo",
+      "RelativePath": "uploads/products/7bb1cff8-e255-4bf3-8f54-075abdad22d2_google_pixel#[.{fingerprint}]?.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "fuklqmxgbd",
+      "Integrity": "OSFor+3Iomaw7moJzNvDmNaDj+/9PVFLF2lYdMCnfLw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\products\\7bb1cff8-e255-4bf3-8f54-075abdad22d2_google_pixel.jpeg"
+    },
+    {
       "Identity": "F:\\Projects\\ASP.NET\\Willingo\\wwwroot\\uploads\\products\\7bf057f0-2089-4f0a-bbf4-06ec1bd3f380_oppo.jpeg",
       "SourceId": "Willingo",
       "SourceType": "Discovered",
@@ -6000,6 +6189,174 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\uploads\\products\\7bf057f0-2089-4f0a-bbf4-06ec1bd3f380_oppo.jpeg"
+    },
+    {
+      "Identity": "F:\\Projects\\ASP.NET\\Willingo\\wwwroot\\uploads\\products\\88d3729e-de66-43e5-b75d-9a018b13d861_product-7.jpg",
+      "SourceId": "Willingo",
+      "SourceType": "Discovered",
+      "ContentRoot": "F:\\Projects\\ASP.NET\\Willingo\\wwwroot\\",
+      "BasePath": "_content/Willingo",
+      "RelativePath": "uploads/products/88d3729e-de66-43e5-b75d-9a018b13d861_product-7#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "pnzprs0l6m",
+      "Integrity": "O1S2lW/OFdbSooxU755iVjK7laFRJn3DiAuSG0FzVnE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\products\\88d3729e-de66-43e5-b75d-9a018b13d861_product-7.jpg"
+    },
+    {
+      "Identity": "F:\\Projects\\ASP.NET\\Willingo\\wwwroot\\uploads\\products\\9f844d6b-0a73-4013-8354-24ed2a152932_images_7.jpeg",
+      "SourceId": "Willingo",
+      "SourceType": "Discovered",
+      "ContentRoot": "F:\\Projects\\ASP.NET\\Willingo\\wwwroot\\",
+      "BasePath": "_content/Willingo",
+      "RelativePath": "uploads/products/9f844d6b-0a73-4013-8354-24ed2a152932_images_7#[.{fingerprint}]?.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "q8k0s6ywbr",
+      "Integrity": "evqsdtlXmVttFEULPaF6j6fEVcomn2j13tNEzvdfjVI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\products\\9f844d6b-0a73-4013-8354-24ed2a152932_images_7.jpeg"
+    },
+    {
+      "Identity": "F:\\Projects\\ASP.NET\\Willingo\\wwwroot\\uploads\\products\\a78ac61c-6dbb-4816-980d-1fa68765f648_product-2.jpg",
+      "SourceId": "Willingo",
+      "SourceType": "Discovered",
+      "ContentRoot": "F:\\Projects\\ASP.NET\\Willingo\\wwwroot\\",
+      "BasePath": "_content/Willingo",
+      "RelativePath": "uploads/products/a78ac61c-6dbb-4816-980d-1fa68765f648_product-2#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "tdxkj6gc9h",
+      "Integrity": "AbHO/9SlMfdwradtEe81zLDTtcSts/JKPQSsJYqoRWo=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\products\\a78ac61c-6dbb-4816-980d-1fa68765f648_product-2.jpg"
+    },
+    {
+      "Identity": "F:\\Projects\\ASP.NET\\Willingo\\wwwroot\\uploads\\products\\a9d5fd7e-cc7f-4e28-af61-b8e634aa20df_infiinix_DioW9w4.jpeg",
+      "SourceId": "Willingo",
+      "SourceType": "Discovered",
+      "ContentRoot": "F:\\Projects\\ASP.NET\\Willingo\\wwwroot\\",
+      "BasePath": "_content/Willingo",
+      "RelativePath": "uploads/products/a9d5fd7e-cc7f-4e28-af61-b8e634aa20df_infiinix_DioW9w4#[.{fingerprint}]?.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "gkt1x76824",
+      "Integrity": "8Oj3dBFcv9kRPHNRRAFliejlkBbozUqqHvL2n/Tz1G8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\products\\a9d5fd7e-cc7f-4e28-af61-b8e634aa20df_infiinix_DioW9w4.jpeg"
+    },
+    {
+      "Identity": "F:\\Projects\\ASP.NET\\Willingo\\wwwroot\\uploads\\products\\b3c78f07-a7a3-4bd6-8139-e1c06f86ce75_product-6.jpg",
+      "SourceId": "Willingo",
+      "SourceType": "Discovered",
+      "ContentRoot": "F:\\Projects\\ASP.NET\\Willingo\\wwwroot\\",
+      "BasePath": "_content/Willingo",
+      "RelativePath": "uploads/products/b3c78f07-a7a3-4bd6-8139-e1c06f86ce75_product-6#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "m3oyc9upzt",
+      "Integrity": "fuF0Jupye3zZGK5DvTdZVhO03eIrVnl1V5XjIUhGylU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\products\\b3c78f07-a7a3-4bd6-8139-e1c06f86ce75_product-6.jpg"
+    },
+    {
+      "Identity": "F:\\Projects\\ASP.NET\\Willingo\\wwwroot\\uploads\\products\\bbe8a6de-02a6-4f79-9a7e-219bde643f90_product-9.jpg",
+      "SourceId": "Willingo",
+      "SourceType": "Discovered",
+      "ContentRoot": "F:\\Projects\\ASP.NET\\Willingo\\wwwroot\\",
+      "BasePath": "_content/Willingo",
+      "RelativePath": "uploads/products/bbe8a6de-02a6-4f79-9a7e-219bde643f90_product-9#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "pqawbw9j30",
+      "Integrity": "n0YRp9TqqKqlD/QKb8MLhj53BzMsyXxZTuDk0aVPJQY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\products\\bbe8a6de-02a6-4f79-9a7e-219bde643f90_product-9.jpg"
+    },
+    {
+      "Identity": "F:\\Projects\\ASP.NET\\Willingo\\wwwroot\\uploads\\products\\c5d23cbd-9cc3-45d7-9dbc-16a54c85fcb5_images_4_7e0nfZY.jpeg",
+      "SourceId": "Willingo",
+      "SourceType": "Discovered",
+      "ContentRoot": "F:\\Projects\\ASP.NET\\Willingo\\wwwroot\\",
+      "BasePath": "_content/Willingo",
+      "RelativePath": "uploads/products/c5d23cbd-9cc3-45d7-9dbc-16a54c85fcb5_images_4_7e0nfZY#[.{fingerprint}]?.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "lsjil2rulu",
+      "Integrity": "Sx6kqkQdRez/6Kg3IbUu8v0xclyuDAPfmBIAAL+9FC4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\products\\c5d23cbd-9cc3-45d7-9dbc-16a54c85fcb5_images_4_7e0nfZY.jpeg"
+    },
+    {
+      "Identity": "F:\\Projects\\ASP.NET\\Willingo\\wwwroot\\uploads\\products\\c91e8a90-db56-4310-b7ac-c09b6fd3f86a_images_1_Y9FnWnH.jpeg",
+      "SourceId": "Willingo",
+      "SourceType": "Discovered",
+      "ContentRoot": "F:\\Projects\\ASP.NET\\Willingo\\wwwroot\\",
+      "BasePath": "_content/Willingo",
+      "RelativePath": "uploads/products/c91e8a90-db56-4310-b7ac-c09b6fd3f86a_images_1_Y9FnWnH#[.{fingerprint}]?.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "xq8hnkdp6r",
+      "Integrity": "iZ3YbrGSqLtGvHpC8q+dTQvI1wQx6JaCF6BHZhcZrFE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\products\\c91e8a90-db56-4310-b7ac-c09b6fd3f86a_images_1_Y9FnWnH.jpeg"
     },
     {
       "Identity": "F:\\Projects\\ASP.NET\\Willingo\\wwwroot\\uploads\\products\\c95047e9-a720-431a-8609-0461a58208e3_1.png",
@@ -6023,6 +6380,48 @@
       "OriginalItemSpec": "wwwroot\\uploads\\products\\c95047e9-a720-431a-8609-0461a58208e3_1.png"
     },
     {
+      "Identity": "F:\\Projects\\ASP.NET\\Willingo\\wwwroot\\uploads\\products\\d1e534b5-b05a-4339-a13d-b4200ed3bdef_hp_V6mw27d.jpeg",
+      "SourceId": "Willingo",
+      "SourceType": "Discovered",
+      "ContentRoot": "F:\\Projects\\ASP.NET\\Willingo\\wwwroot\\",
+      "BasePath": "_content/Willingo",
+      "RelativePath": "uploads/products/d1e534b5-b05a-4339-a13d-b4200ed3bdef_hp_V6mw27d#[.{fingerprint}]?.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "crbdhtv5xd",
+      "Integrity": "yPFwJ3dcQS0ggZwxHzNl7M3PNJHH2iM6TsrBFfxEWL0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\products\\d1e534b5-b05a-4339-a13d-b4200ed3bdef_hp_V6mw27d.jpeg"
+    },
+    {
+      "Identity": "F:\\Projects\\ASP.NET\\Willingo\\wwwroot\\uploads\\products\\d363e184-2d45-424a-b0ab-aa7518566d5a_carousel-3.jpg",
+      "SourceId": "Willingo",
+      "SourceType": "Discovered",
+      "ContentRoot": "F:\\Projects\\ASP.NET\\Willingo\\wwwroot\\",
+      "BasePath": "_content/Willingo",
+      "RelativePath": "uploads/products/d363e184-2d45-424a-b0ab-aa7518566d5a_carousel-3#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "x3rgn4fydm",
+      "Integrity": "PWQvTPrQDuR712eC1kVBwtKBvZ9nJeSBegVS+LGHR6g=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\products\\d363e184-2d45-424a-b0ab-aa7518566d5a_carousel-3.jpg"
+    },
+    {
       "Identity": "F:\\Projects\\ASP.NET\\Willingo\\wwwroot\\uploads\\products\\e00bc150-8129-432d-888a-e4d95673ee13_20241130072742976.png",
       "SourceId": "Willingo",
       "SourceType": "Discovered",
@@ -6044,6 +6443,27 @@
       "OriginalItemSpec": "wwwroot\\uploads\\products\\e00bc150-8129-432d-888a-e4d95673ee13_20241130072742976.png"
     },
     {
+      "Identity": "F:\\Projects\\ASP.NET\\Willingo\\wwwroot\\uploads\\products\\e11ed534-d171-46a8-bbc8-79d10088d244_images_3_Vr6tINu.jpeg",
+      "SourceId": "Willingo",
+      "SourceType": "Discovered",
+      "ContentRoot": "F:\\Projects\\ASP.NET\\Willingo\\wwwroot\\",
+      "BasePath": "_content/Willingo",
+      "RelativePath": "uploads/products/e11ed534-d171-46a8-bbc8-79d10088d244_images_3_Vr6tINu#[.{fingerprint}]?.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "zcnd6zde2h",
+      "Integrity": "fcZWOvOSNV/k4bML5MQQ3gYoGICjIAoI+RxABRdBGRE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\products\\e11ed534-d171-46a8-bbc8-79d10088d244_images_3_Vr6tINu.jpeg"
+    },
+    {
       "Identity": "F:\\Projects\\ASP.NET\\Willingo\\wwwroot\\uploads\\products\\e737dd38-af6d-4f93-9f35-e10272a8a921_tower_1.jpeg",
       "SourceId": "Willingo",
       "SourceType": "Discovered",
@@ -6063,6 +6483,48 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\uploads\\products\\e737dd38-af6d-4f93-9f35-e10272a8a921_tower_1.jpeg"
+    },
+    {
+      "Identity": "F:\\Projects\\ASP.NET\\Willingo\\wwwroot\\uploads\\products\\ebc70868-266a-45d5-9ef2-43f08bde35a8_product-5.jpg",
+      "SourceId": "Willingo",
+      "SourceType": "Discovered",
+      "ContentRoot": "F:\\Projects\\ASP.NET\\Willingo\\wwwroot\\",
+      "BasePath": "_content/Willingo",
+      "RelativePath": "uploads/products/ebc70868-266a-45d5-9ef2-43f08bde35a8_product-5#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "0k8nd7j3o5",
+      "Integrity": "ECTtuVii7+lMDf0GhKYjll1aWQg3S1eJi9jbVS1kQ2s=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\products\\ebc70868-266a-45d5-9ef2-43f08bde35a8_product-5.jpg"
+    },
+    {
+      "Identity": "F:\\Projects\\ASP.NET\\Willingo\\wwwroot\\uploads\\products\\ec50bbc0-5307-434f-8b56-8623b458a910_deskkktoop.jpeg",
+      "SourceId": "Willingo",
+      "SourceType": "Discovered",
+      "ContentRoot": "F:\\Projects\\ASP.NET\\Willingo\\wwwroot\\",
+      "BasePath": "_content/Willingo",
+      "RelativePath": "uploads/products/ec50bbc0-5307-434f-8b56-8623b458a910_deskkktoop#[.{fingerprint}]?.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "upsj1icnid",
+      "Integrity": "IsEZ6kjAV3VCkgYLyB6TEKxITOPhcTULb1bUl1HQHOw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\products\\ec50bbc0-5307-434f-8b56-8623b458a910_deskkktoop.jpeg"
     },
     {
       "Identity": "F:\\Projects\\ASP.NET\\Willingo\\wwwroot\\uploads\\products\\ef4435fa-33ff-4c9c-9d3f-6eccc7947041_20241126150648533.png",
@@ -28638,6 +29100,170 @@
       ]
     },
     {
+      "Route": "uploads/products/021cd114-2988-435a-96dd-5487549952b7_product-6.jpg",
+      "AssetFile": "F:\\Projects\\ASP.NET\\Willingo\\wwwroot\\uploads\\products\\021cd114-2988-435a-96dd-5487549952b7_product-6.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "27557"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"fuF0Jupye3zZGK5DvTdZVhO03eIrVnl1V5XjIUhGylU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 05 Dec 2024 17:01:00 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-fuF0Jupye3zZGK5DvTdZVhO03eIrVnl1V5XjIUhGylU="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/products/021cd114-2988-435a-96dd-5487549952b7_product-6.m3oyc9upzt.jpg",
+      "AssetFile": "F:\\Projects\\ASP.NET\\Willingo\\wwwroot\\uploads\\products\\021cd114-2988-435a-96dd-5487549952b7_product-6.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "27557"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"fuF0Jupye3zZGK5DvTdZVhO03eIrVnl1V5XjIUhGylU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 05 Dec 2024 17:01:00 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "m3oyc9upzt"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/products/021cd114-2988-435a-96dd-5487549952b7_product-6.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-fuF0Jupye3zZGK5DvTdZVhO03eIrVnl1V5XjIUhGylU="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/products/0b5fa470-7e5b-45ab-a586-f03ab44353c5_cat-2.jpg",
+      "AssetFile": "F:\\Projects\\ASP.NET\\Willingo\\wwwroot\\uploads\\products\\0b5fa470-7e5b-45ab-a586-f03ab44353c5_cat-2.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7890"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qX21fQv9XOOX1IeeLdfdtrF1Kavc5jI0wSHC/heyrIo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 05 Dec 2024 16:55:29 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-qX21fQv9XOOX1IeeLdfdtrF1Kavc5jI0wSHC/heyrIo="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/products/0b5fa470-7e5b-45ab-a586-f03ab44353c5_cat-2.zxdvmtcgzw.jpg",
+      "AssetFile": "F:\\Projects\\ASP.NET\\Willingo\\wwwroot\\uploads\\products\\0b5fa470-7e5b-45ab-a586-f03ab44353c5_cat-2.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7890"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qX21fQv9XOOX1IeeLdfdtrF1Kavc5jI0wSHC/heyrIo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 05 Dec 2024 16:55:29 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "zxdvmtcgzw"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/products/0b5fa470-7e5b-45ab-a586-f03ab44353c5_cat-2.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-qX21fQv9XOOX1IeeLdfdtrF1Kavc5jI0wSHC/heyrIo="
+        }
+      ]
+    },
+    {
       "Route": "uploads/products/20d8efe9-3cab-4509-b86b-65e35e3f875b_7.3eodk0wkhs.png",
       "AssetFile": "F:\\Projects\\ASP.NET\\Willingo\\wwwroot\\uploads\\products\\20d8efe9-3cab-4509-b86b-65e35e3f875b_7.png",
       "Selectors": [],
@@ -28802,6 +29428,170 @@
       ]
     },
     {
+      "Route": "uploads/products/2396c277-b514-41af-b1f4-903306963988_images.jpeg",
+      "AssetFile": "F:\\Projects\\ASP.NET\\Willingo\\wwwroot\\uploads\\products\\2396c277-b514-41af-b1f4-903306963988_images.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6487"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"liUxpy8/g2HbYPeHjrxfPhHuaScoHtaSJuKlyYVBBhk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 05 Dec 2024 17:06:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-liUxpy8/g2HbYPeHjrxfPhHuaScoHtaSJuKlyYVBBhk="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/products/2396c277-b514-41af-b1f4-903306963988_images.m177f3qb1l.jpeg",
+      "AssetFile": "F:\\Projects\\ASP.NET\\Willingo\\wwwroot\\uploads\\products\\2396c277-b514-41af-b1f4-903306963988_images.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6487"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"liUxpy8/g2HbYPeHjrxfPhHuaScoHtaSJuKlyYVBBhk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 05 Dec 2024 17:06:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "m177f3qb1l"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/products/2396c277-b514-41af-b1f4-903306963988_images.jpeg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-liUxpy8/g2HbYPeHjrxfPhHuaScoHtaSJuKlyYVBBhk="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/products/244fdc9f-cbea-4452-a78d-e368baf2ea78_cat-3.4l28pb65dq.jpg",
+      "AssetFile": "F:\\Projects\\ASP.NET\\Willingo\\wwwroot\\uploads\\products\\244fdc9f-cbea-4452-a78d-e368baf2ea78_cat-3.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6871"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"6NttC45ojSPbiOD67a9N9m39bB/ceyPpfUG3hEjXdqM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 05 Dec 2024 17:09:01 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "4l28pb65dq"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/products/244fdc9f-cbea-4452-a78d-e368baf2ea78_cat-3.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-6NttC45ojSPbiOD67a9N9m39bB/ceyPpfUG3hEjXdqM="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/products/244fdc9f-cbea-4452-a78d-e368baf2ea78_cat-3.jpg",
+      "AssetFile": "F:\\Projects\\ASP.NET\\Willingo\\wwwroot\\uploads\\products\\244fdc9f-cbea-4452-a78d-e368baf2ea78_cat-3.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6871"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"6NttC45ojSPbiOD67a9N9m39bB/ceyPpfUG3hEjXdqM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 05 Dec 2024 17:09:01 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-6NttC45ojSPbiOD67a9N9m39bB/ceyPpfUG3hEjXdqM="
+        }
+      ]
+    },
+    {
       "Route": "uploads/products/245815d0-e2c9-472c-8deb-a643823b01c7_20241130072808242.jhg80pcobs.png",
       "AssetFile": "F:\\Projects\\ASP.NET\\Willingo\\wwwroot\\uploads\\products\\245815d0-e2c9-472c-8deb-a643823b01c7_20241130072808242.png",
       "Selectors": [],
@@ -28884,6 +29674,252 @@
       ]
     },
     {
+      "Route": "uploads/products/25016e47-3a08-4714-8508-f79318bd04ba_infinix2_Mn0WJ4U.3z7if80mjq.jpeg",
+      "AssetFile": "F:\\Projects\\ASP.NET\\Willingo\\wwwroot\\uploads\\products\\25016e47-3a08-4714-8508-f79318bd04ba_infinix2_Mn0WJ4U.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4446"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"IfioMEOcErXb7VZiqH0u1bo0NSQeoMiVpl3Es3VATrw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 05 Dec 2024 17:04:04 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "3z7if80mjq"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/products/25016e47-3a08-4714-8508-f79318bd04ba_infinix2_Mn0WJ4U.jpeg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-IfioMEOcErXb7VZiqH0u1bo0NSQeoMiVpl3Es3VATrw="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/products/25016e47-3a08-4714-8508-f79318bd04ba_infinix2_Mn0WJ4U.jpeg",
+      "AssetFile": "F:\\Projects\\ASP.NET\\Willingo\\wwwroot\\uploads\\products\\25016e47-3a08-4714-8508-f79318bd04ba_infinix2_Mn0WJ4U.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4446"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"IfioMEOcErXb7VZiqH0u1bo0NSQeoMiVpl3Es3VATrw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 05 Dec 2024 17:04:04 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-IfioMEOcErXb7VZiqH0u1bo0NSQeoMiVpl3Es3VATrw="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/products/2beed4d2-7a99-403a-bac6-c98837cb2eb5_hp.f4o6mpga8m.jpeg",
+      "AssetFile": "F:\\Projects\\ASP.NET\\Willingo\\wwwroot\\uploads\\products\\2beed4d2-7a99-403a-bac6-c98837cb2eb5_hp.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3492"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Yeatb2UIHmSxoYPpwu8+gf1b4+USFV9Fszxnf3z8AH8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 05 Dec 2024 17:01:50 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "f4o6mpga8m"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/products/2beed4d2-7a99-403a-bac6-c98837cb2eb5_hp.jpeg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Yeatb2UIHmSxoYPpwu8+gf1b4+USFV9Fszxnf3z8AH8="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/products/2beed4d2-7a99-403a-bac6-c98837cb2eb5_hp.jpeg",
+      "AssetFile": "F:\\Projects\\ASP.NET\\Willingo\\wwwroot\\uploads\\products\\2beed4d2-7a99-403a-bac6-c98837cb2eb5_hp.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3492"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Yeatb2UIHmSxoYPpwu8+gf1b4+USFV9Fszxnf3z8AH8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 05 Dec 2024 17:01:50 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Yeatb2UIHmSxoYPpwu8+gf1b4+USFV9Fszxnf3z8AH8="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/products/2d2f0698-169c-43c1-b35e-b762a2a46134_product-4.1v4z7np1nz.jpg",
+      "AssetFile": "F:\\Projects\\ASP.NET\\Willingo\\wwwroot\\uploads\\products\\2d2f0698-169c-43c1-b35e-b762a2a46134_product-4.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "35305"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"XfZKVNGjHOQQdDb+Cshf0p98EGtU2r21xMGbxr83PoY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 05 Dec 2024 17:03:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "1v4z7np1nz"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/products/2d2f0698-169c-43c1-b35e-b762a2a46134_product-4.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-XfZKVNGjHOQQdDb+Cshf0p98EGtU2r21xMGbxr83PoY="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/products/2d2f0698-169c-43c1-b35e-b762a2a46134_product-4.jpg",
+      "AssetFile": "F:\\Projects\\ASP.NET\\Willingo\\wwwroot\\uploads\\products\\2d2f0698-169c-43c1-b35e-b762a2a46134_product-4.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "35305"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"XfZKVNGjHOQQdDb+Cshf0p98EGtU2r21xMGbxr83PoY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 05 Dec 2024 17:03:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-XfZKVNGjHOQQdDb+Cshf0p98EGtU2r21xMGbxr83PoY="
+        }
+      ]
+    },
+    {
       "Route": "uploads/products/35ff6696-245e-48bb-b60f-2a84d8968afc_one2.399p06evnw.jpeg",
       "AssetFile": "F:\\Projects\\ASP.NET\\Willingo\\wwwroot\\uploads\\products\\35ff6696-245e-48bb-b60f-2a84d8968afc_one2.jpeg",
       "Selectors": [],
@@ -28962,6 +29998,88 @@
         {
           "Name": "integrity",
           "Value": "sha256-6Yy6Y0ktjOTeFdk6PIeNVOQIsnzbLf/qvqbzba2mMOY="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/products/531b23c1-897f-4fba-9582-e7db849f3ee1_carousel-2.bttze27qy2.jpg",
+      "AssetFile": "F:\\Projects\\ASP.NET\\Willingo\\wwwroot\\uploads\\products\\531b23c1-897f-4fba-9582-e7db849f3ee1_carousel-2.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "23626"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"UXjEd9CoZS3s4zcRctSwkkiDhaiceO3i0Bjf9VLts4c=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 05 Dec 2024 17:13:50 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "bttze27qy2"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/products/531b23c1-897f-4fba-9582-e7db849f3ee1_carousel-2.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-UXjEd9CoZS3s4zcRctSwkkiDhaiceO3i0Bjf9VLts4c="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/products/531b23c1-897f-4fba-9582-e7db849f3ee1_carousel-2.jpg",
+      "AssetFile": "F:\\Projects\\ASP.NET\\Willingo\\wwwroot\\uploads\\products\\531b23c1-897f-4fba-9582-e7db849f3ee1_carousel-2.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "23626"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"UXjEd9CoZS3s4zcRctSwkkiDhaiceO3i0Bjf9VLts4c=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 05 Dec 2024 17:13:50 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-UXjEd9CoZS3s4zcRctSwkkiDhaiceO3i0Bjf9VLts4c="
         }
       ]
     },
@@ -29212,6 +30330,88 @@
       ]
     },
     {
+      "Route": "uploads/products/7bb1cff8-e255-4bf3-8f54-075abdad22d2_google_pixel.fuklqmxgbd.jpeg",
+      "AssetFile": "F:\\Projects\\ASP.NET\\Willingo\\wwwroot\\uploads\\products\\7bb1cff8-e255-4bf3-8f54-075abdad22d2_google_pixel.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "9473"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"OSFor+3Iomaw7moJzNvDmNaDj+/9PVFLF2lYdMCnfLw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 05 Dec 2024 17:10:36 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "fuklqmxgbd"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/products/7bb1cff8-e255-4bf3-8f54-075abdad22d2_google_pixel.jpeg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-OSFor+3Iomaw7moJzNvDmNaDj+/9PVFLF2lYdMCnfLw="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/products/7bb1cff8-e255-4bf3-8f54-075abdad22d2_google_pixel.jpeg",
+      "AssetFile": "F:\\Projects\\ASP.NET\\Willingo\\wwwroot\\uploads\\products\\7bb1cff8-e255-4bf3-8f54-075abdad22d2_google_pixel.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "9473"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"OSFor+3Iomaw7moJzNvDmNaDj+/9PVFLF2lYdMCnfLw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 05 Dec 2024 17:10:36 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-OSFor+3Iomaw7moJzNvDmNaDj+/9PVFLF2lYdMCnfLw="
+        }
+      ]
+    },
+    {
       "Route": "uploads/products/7bf057f0-2089-4f0a-bbf4-06ec1bd3f380_oppo.jpeg",
       "AssetFile": "F:\\Projects\\ASP.NET\\Willingo\\wwwroot\\uploads\\products\\7bf057f0-2089-4f0a-bbf4-06ec1bd3f380_oppo.jpeg",
       "Selectors": [],
@@ -29290,6 +30490,662 @@
         {
           "Name": "integrity",
           "Value": "sha256-g4JS3ptF1RgKwV7bbL9rey4L8MkSThZO5IFiXuAnqh4="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/products/88d3729e-de66-43e5-b75d-9a018b13d861_product-7.jpg",
+      "AssetFile": "F:\\Projects\\ASP.NET\\Willingo\\wwwroot\\uploads\\products\\88d3729e-de66-43e5-b75d-9a018b13d861_product-7.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "38512"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"O1S2lW/OFdbSooxU755iVjK7laFRJn3DiAuSG0FzVnE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 05 Dec 2024 16:58:57 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-O1S2lW/OFdbSooxU755iVjK7laFRJn3DiAuSG0FzVnE="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/products/88d3729e-de66-43e5-b75d-9a018b13d861_product-7.pnzprs0l6m.jpg",
+      "AssetFile": "F:\\Projects\\ASP.NET\\Willingo\\wwwroot\\uploads\\products\\88d3729e-de66-43e5-b75d-9a018b13d861_product-7.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "38512"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"O1S2lW/OFdbSooxU755iVjK7laFRJn3DiAuSG0FzVnE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 05 Dec 2024 16:58:57 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "pnzprs0l6m"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/products/88d3729e-de66-43e5-b75d-9a018b13d861_product-7.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-O1S2lW/OFdbSooxU755iVjK7laFRJn3DiAuSG0FzVnE="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/products/9f844d6b-0a73-4013-8354-24ed2a152932_images_7.jpeg",
+      "AssetFile": "F:\\Projects\\ASP.NET\\Willingo\\wwwroot\\uploads\\products\\9f844d6b-0a73-4013-8354-24ed2a152932_images_7.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "11550"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"evqsdtlXmVttFEULPaF6j6fEVcomn2j13tNEzvdfjVI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 05 Dec 2024 17:10:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-evqsdtlXmVttFEULPaF6j6fEVcomn2j13tNEzvdfjVI="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/products/9f844d6b-0a73-4013-8354-24ed2a152932_images_7.q8k0s6ywbr.jpeg",
+      "AssetFile": "F:\\Projects\\ASP.NET\\Willingo\\wwwroot\\uploads\\products\\9f844d6b-0a73-4013-8354-24ed2a152932_images_7.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "11550"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"evqsdtlXmVttFEULPaF6j6fEVcomn2j13tNEzvdfjVI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 05 Dec 2024 17:10:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "q8k0s6ywbr"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/products/9f844d6b-0a73-4013-8354-24ed2a152932_images_7.jpeg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-evqsdtlXmVttFEULPaF6j6fEVcomn2j13tNEzvdfjVI="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/products/a78ac61c-6dbb-4816-980d-1fa68765f648_product-2.jpg",
+      "AssetFile": "F:\\Projects\\ASP.NET\\Willingo\\wwwroot\\uploads\\products\\a78ac61c-6dbb-4816-980d-1fa68765f648_product-2.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "21764"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"AbHO/9SlMfdwradtEe81zLDTtcSts/JKPQSsJYqoRWo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 05 Dec 2024 16:59:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-AbHO/9SlMfdwradtEe81zLDTtcSts/JKPQSsJYqoRWo="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/products/a78ac61c-6dbb-4816-980d-1fa68765f648_product-2.tdxkj6gc9h.jpg",
+      "AssetFile": "F:\\Projects\\ASP.NET\\Willingo\\wwwroot\\uploads\\products\\a78ac61c-6dbb-4816-980d-1fa68765f648_product-2.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "21764"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"AbHO/9SlMfdwradtEe81zLDTtcSts/JKPQSsJYqoRWo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 05 Dec 2024 16:59:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "tdxkj6gc9h"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/products/a78ac61c-6dbb-4816-980d-1fa68765f648_product-2.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-AbHO/9SlMfdwradtEe81zLDTtcSts/JKPQSsJYqoRWo="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/products/a9d5fd7e-cc7f-4e28-af61-b8e634aa20df_infiinix_DioW9w4.gkt1x76824.jpeg",
+      "AssetFile": "F:\\Projects\\ASP.NET\\Willingo\\wwwroot\\uploads\\products\\a9d5fd7e-cc7f-4e28-af61-b8e634aa20df_infiinix_DioW9w4.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4514"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"8Oj3dBFcv9kRPHNRRAFliejlkBbozUqqHvL2n/Tz1G8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 05 Dec 2024 17:05:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "gkt1x76824"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/products/a9d5fd7e-cc7f-4e28-af61-b8e634aa20df_infiinix_DioW9w4.jpeg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-8Oj3dBFcv9kRPHNRRAFliejlkBbozUqqHvL2n/Tz1G8="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/products/a9d5fd7e-cc7f-4e28-af61-b8e634aa20df_infiinix_DioW9w4.jpeg",
+      "AssetFile": "F:\\Projects\\ASP.NET\\Willingo\\wwwroot\\uploads\\products\\a9d5fd7e-cc7f-4e28-af61-b8e634aa20df_infiinix_DioW9w4.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4514"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"8Oj3dBFcv9kRPHNRRAFliejlkBbozUqqHvL2n/Tz1G8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 05 Dec 2024 17:05:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-8Oj3dBFcv9kRPHNRRAFliejlkBbozUqqHvL2n/Tz1G8="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/products/b3c78f07-a7a3-4bd6-8139-e1c06f86ce75_product-6.jpg",
+      "AssetFile": "F:\\Projects\\ASP.NET\\Willingo\\wwwroot\\uploads\\products\\b3c78f07-a7a3-4bd6-8139-e1c06f86ce75_product-6.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "27557"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"fuF0Jupye3zZGK5DvTdZVhO03eIrVnl1V5XjIUhGylU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 05 Dec 2024 17:00:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-fuF0Jupye3zZGK5DvTdZVhO03eIrVnl1V5XjIUhGylU="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/products/b3c78f07-a7a3-4bd6-8139-e1c06f86ce75_product-6.m3oyc9upzt.jpg",
+      "AssetFile": "F:\\Projects\\ASP.NET\\Willingo\\wwwroot\\uploads\\products\\b3c78f07-a7a3-4bd6-8139-e1c06f86ce75_product-6.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "27557"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"fuF0Jupye3zZGK5DvTdZVhO03eIrVnl1V5XjIUhGylU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 05 Dec 2024 17:00:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "m3oyc9upzt"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/products/b3c78f07-a7a3-4bd6-8139-e1c06f86ce75_product-6.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-fuF0Jupye3zZGK5DvTdZVhO03eIrVnl1V5XjIUhGylU="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/products/bbe8a6de-02a6-4f79-9a7e-219bde643f90_product-9.jpg",
+      "AssetFile": "F:\\Projects\\ASP.NET\\Willingo\\wwwroot\\uploads\\products\\bbe8a6de-02a6-4f79-9a7e-219bde643f90_product-9.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "22795"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"n0YRp9TqqKqlD/QKb8MLhj53BzMsyXxZTuDk0aVPJQY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 05 Dec 2024 17:07:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-n0YRp9TqqKqlD/QKb8MLhj53BzMsyXxZTuDk0aVPJQY="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/products/bbe8a6de-02a6-4f79-9a7e-219bde643f90_product-9.pqawbw9j30.jpg",
+      "AssetFile": "F:\\Projects\\ASP.NET\\Willingo\\wwwroot\\uploads\\products\\bbe8a6de-02a6-4f79-9a7e-219bde643f90_product-9.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "22795"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"n0YRp9TqqKqlD/QKb8MLhj53BzMsyXxZTuDk0aVPJQY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 05 Dec 2024 17:07:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "pqawbw9j30"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/products/bbe8a6de-02a6-4f79-9a7e-219bde643f90_product-9.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-n0YRp9TqqKqlD/QKb8MLhj53BzMsyXxZTuDk0aVPJQY="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/products/c5d23cbd-9cc3-45d7-9dbc-16a54c85fcb5_images_4_7e0nfZY.jpeg",
+      "AssetFile": "F:\\Projects\\ASP.NET\\Willingo\\wwwroot\\uploads\\products\\c5d23cbd-9cc3-45d7-9dbc-16a54c85fcb5_images_4_7e0nfZY.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6433"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Sx6kqkQdRez/6Kg3IbUu8v0xclyuDAPfmBIAAL+9FC4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 05 Dec 2024 16:54:45 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Sx6kqkQdRez/6Kg3IbUu8v0xclyuDAPfmBIAAL+9FC4="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/products/c5d23cbd-9cc3-45d7-9dbc-16a54c85fcb5_images_4_7e0nfZY.lsjil2rulu.jpeg",
+      "AssetFile": "F:\\Projects\\ASP.NET\\Willingo\\wwwroot\\uploads\\products\\c5d23cbd-9cc3-45d7-9dbc-16a54c85fcb5_images_4_7e0nfZY.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6433"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Sx6kqkQdRez/6Kg3IbUu8v0xclyuDAPfmBIAAL+9FC4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 05 Dec 2024 16:54:45 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "lsjil2rulu"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/products/c5d23cbd-9cc3-45d7-9dbc-16a54c85fcb5_images_4_7e0nfZY.jpeg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Sx6kqkQdRez/6Kg3IbUu8v0xclyuDAPfmBIAAL+9FC4="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/products/c91e8a90-db56-4310-b7ac-c09b6fd3f86a_images_1_Y9FnWnH.jpeg",
+      "AssetFile": "F:\\Projects\\ASP.NET\\Willingo\\wwwroot\\uploads\\products\\c91e8a90-db56-4310-b7ac-c09b6fd3f86a_images_1_Y9FnWnH.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "15113"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"iZ3YbrGSqLtGvHpC8q+dTQvI1wQx6JaCF6BHZhcZrFE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 05 Dec 2024 17:09:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-iZ3YbrGSqLtGvHpC8q+dTQvI1wQx6JaCF6BHZhcZrFE="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/products/c91e8a90-db56-4310-b7ac-c09b6fd3f86a_images_1_Y9FnWnH.xq8hnkdp6r.jpeg",
+      "AssetFile": "F:\\Projects\\ASP.NET\\Willingo\\wwwroot\\uploads\\products\\c91e8a90-db56-4310-b7ac-c09b6fd3f86a_images_1_Y9FnWnH.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "15113"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"iZ3YbrGSqLtGvHpC8q+dTQvI1wQx6JaCF6BHZhcZrFE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 05 Dec 2024 17:09:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "xq8hnkdp6r"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/products/c91e8a90-db56-4310-b7ac-c09b6fd3f86a_images_1_Y9FnWnH.jpeg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-iZ3YbrGSqLtGvHpC8q+dTQvI1wQx6JaCF6BHZhcZrFE="
         }
       ]
     },
@@ -29376,6 +31232,170 @@
       ]
     },
     {
+      "Route": "uploads/products/d1e534b5-b05a-4339-a13d-b4200ed3bdef_hp_V6mw27d.crbdhtv5xd.jpeg",
+      "AssetFile": "F:\\Projects\\ASP.NET\\Willingo\\wwwroot\\uploads\\products\\d1e534b5-b05a-4339-a13d-b4200ed3bdef_hp_V6mw27d.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "10384"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"yPFwJ3dcQS0ggZwxHzNl7M3PNJHH2iM6TsrBFfxEWL0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 05 Dec 2024 17:02:29 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "crbdhtv5xd"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/products/d1e534b5-b05a-4339-a13d-b4200ed3bdef_hp_V6mw27d.jpeg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-yPFwJ3dcQS0ggZwxHzNl7M3PNJHH2iM6TsrBFfxEWL0="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/products/d1e534b5-b05a-4339-a13d-b4200ed3bdef_hp_V6mw27d.jpeg",
+      "AssetFile": "F:\\Projects\\ASP.NET\\Willingo\\wwwroot\\uploads\\products\\d1e534b5-b05a-4339-a13d-b4200ed3bdef_hp_V6mw27d.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "10384"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"yPFwJ3dcQS0ggZwxHzNl7M3PNJHH2iM6TsrBFfxEWL0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 05 Dec 2024 17:02:29 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-yPFwJ3dcQS0ggZwxHzNl7M3PNJHH2iM6TsrBFfxEWL0="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/products/d363e184-2d45-424a-b0ab-aa7518566d5a_carousel-3.jpg",
+      "AssetFile": "F:\\Projects\\ASP.NET\\Willingo\\wwwroot\\uploads\\products\\d363e184-2d45-424a-b0ab-aa7518566d5a_carousel-3.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "34717"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"PWQvTPrQDuR712eC1kVBwtKBvZ9nJeSBegVS+LGHR6g=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 05 Dec 2024 17:12:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-PWQvTPrQDuR712eC1kVBwtKBvZ9nJeSBegVS+LGHR6g="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/products/d363e184-2d45-424a-b0ab-aa7518566d5a_carousel-3.x3rgn4fydm.jpg",
+      "AssetFile": "F:\\Projects\\ASP.NET\\Willingo\\wwwroot\\uploads\\products\\d363e184-2d45-424a-b0ab-aa7518566d5a_carousel-3.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "34717"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"PWQvTPrQDuR712eC1kVBwtKBvZ9nJeSBegVS+LGHR6g=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 05 Dec 2024 17:12:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "x3rgn4fydm"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/products/d363e184-2d45-424a-b0ab-aa7518566d5a_carousel-3.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-PWQvTPrQDuR712eC1kVBwtKBvZ9nJeSBegVS+LGHR6g="
+        }
+      ]
+    },
+    {
       "Route": "uploads/products/e00bc150-8129-432d-888a-e4d95673ee13_20241130072742976.png",
       "AssetFile": "F:\\Projects\\ASP.NET\\Willingo\\wwwroot\\uploads\\products\\e00bc150-8129-432d-888a-e4d95673ee13_20241130072742976.png",
       "Selectors": [],
@@ -29458,6 +31478,88 @@
       ]
     },
     {
+      "Route": "uploads/products/e11ed534-d171-46a8-bbc8-79d10088d244_images_3_Vr6tINu.jpeg",
+      "AssetFile": "F:\\Projects\\ASP.NET\\Willingo\\wwwroot\\uploads\\products\\e11ed534-d171-46a8-bbc8-79d10088d244_images_3_Vr6tINu.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "9331"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"fcZWOvOSNV/k4bML5MQQ3gYoGICjIAoI+RxABRdBGRE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 05 Dec 2024 17:08:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-fcZWOvOSNV/k4bML5MQQ3gYoGICjIAoI+RxABRdBGRE="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/products/e11ed534-d171-46a8-bbc8-79d10088d244_images_3_Vr6tINu.zcnd6zde2h.jpeg",
+      "AssetFile": "F:\\Projects\\ASP.NET\\Willingo\\wwwroot\\uploads\\products\\e11ed534-d171-46a8-bbc8-79d10088d244_images_3_Vr6tINu.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "9331"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"fcZWOvOSNV/k4bML5MQQ3gYoGICjIAoI+RxABRdBGRE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 05 Dec 2024 17:08:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "zcnd6zde2h"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/products/e11ed534-d171-46a8-bbc8-79d10088d244_images_3_Vr6tINu.jpeg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-fcZWOvOSNV/k4bML5MQQ3gYoGICjIAoI+RxABRdBGRE="
+        }
+      ]
+    },
+    {
       "Route": "uploads/products/e737dd38-af6d-4f93-9f35-e10272a8a921_tower_1.2fzcrjrb1i.jpeg",
       "AssetFile": "F:\\Projects\\ASP.NET\\Willingo\\wwwroot\\uploads\\products\\e737dd38-af6d-4f93-9f35-e10272a8a921_tower_1.jpeg",
       "Selectors": [],
@@ -29536,6 +31638,170 @@
         {
           "Name": "integrity",
           "Value": "sha256-TtUzDx92gotkY4KR5d2F7ZxLbaG6vFi19XGHrTfg1YM="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/products/ebc70868-266a-45d5-9ef2-43f08bde35a8_product-5.0k8nd7j3o5.jpg",
+      "AssetFile": "F:\\Projects\\ASP.NET\\Willingo\\wwwroot\\uploads\\products\\ebc70868-266a-45d5-9ef2-43f08bde35a8_product-5.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "21340"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ECTtuVii7+lMDf0GhKYjll1aWQg3S1eJi9jbVS1kQ2s=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 05 Dec 2024 16:56:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "0k8nd7j3o5"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/products/ebc70868-266a-45d5-9ef2-43f08bde35a8_product-5.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ECTtuVii7+lMDf0GhKYjll1aWQg3S1eJi9jbVS1kQ2s="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/products/ebc70868-266a-45d5-9ef2-43f08bde35a8_product-5.jpg",
+      "AssetFile": "F:\\Projects\\ASP.NET\\Willingo\\wwwroot\\uploads\\products\\ebc70868-266a-45d5-9ef2-43f08bde35a8_product-5.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "21340"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ECTtuVii7+lMDf0GhKYjll1aWQg3S1eJi9jbVS1kQ2s=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 05 Dec 2024 16:56:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ECTtuVii7+lMDf0GhKYjll1aWQg3S1eJi9jbVS1kQ2s="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/products/ec50bbc0-5307-434f-8b56-8623b458a910_deskkktoop.jpeg",
+      "AssetFile": "F:\\Projects\\ASP.NET\\Willingo\\wwwroot\\uploads\\products\\ec50bbc0-5307-434f-8b56-8623b458a910_deskkktoop.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5330"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"IsEZ6kjAV3VCkgYLyB6TEKxITOPhcTULb1bUl1HQHOw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 05 Dec 2024 17:03:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-IsEZ6kjAV3VCkgYLyB6TEKxITOPhcTULb1bUl1HQHOw="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/products/ec50bbc0-5307-434f-8b56-8623b458a910_deskkktoop.upsj1icnid.jpeg",
+      "AssetFile": "F:\\Projects\\ASP.NET\\Willingo\\wwwroot\\uploads\\products\\ec50bbc0-5307-434f-8b56-8623b458a910_deskkktoop.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5330"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"IsEZ6kjAV3VCkgYLyB6TEKxITOPhcTULb1bUl1HQHOw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 05 Dec 2024 17:03:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "upsj1icnid"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/products/ec50bbc0-5307-434f-8b56-8623b458a910_deskkktoop.jpeg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-IsEZ6kjAV3VCkgYLyB6TEKxITOPhcTULb1bUl1HQHOw="
         }
       ]
     },
